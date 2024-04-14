@@ -1,0 +1,2008 @@
+[2024-04-11] - [11:23:55] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 0
+[2024-04-11] - [11:23:56] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 0\Resulting Close: 1.25348
+Previous Close: 1.25347
+Direction: 9.999999999843467e-06
+[2024-04-11] - [11:23:56] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 1
+[2024-04-11] - [11:23:56] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 1\Resulting Close: 1.25348
+Previous Close: 1.25347
+Direction: 9.999999999843467e-06
+[2024-04-11] - [11:23:56] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 2
+[2024-04-11] - [11:23:56] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 2\Resulting Close: 1.25347
+Previous Close: 1.25349
+Direction: -1.999999999990898e-05
+[2024-04-11] - [11:23:56] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 3
+[2024-04-11] - [11:23:56] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 3\Resulting Close: 1.25349
+Previous Close: 1.2536
+Direction: -0.0001100000000000545
+[2024-04-11] - [11:23:56] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 4
+[2024-04-11] - [11:23:56] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 4\Resulting Close: 1.2536
+Previous Close: 1.25366
+Direction: -5.999999999994898e-05
+[2024-04-11] - [11:23:56] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 5
+[2024-04-11] - [11:23:56] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 5\Resulting Close: 1.25366
+Previous Close: 1.25349
+Direction: 0.00017000000000000348
+[2024-04-11] - [11:23:56] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 6
+[2024-04-11] - [11:23:56] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 6\Resulting Close: 1.25349
+Previous Close: 1.25327
+Direction: 0.00021999999999988695
+[2024-04-11] - [11:23:56] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 7
+[2024-04-11] - [11:23:56] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 7\Resulting Close: 1.25327
+Previous Close: 1.25316
+Direction: 0.0001100000000000545
+[2024-04-11] - [11:23:56] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 8
+[2024-04-11] - [11:23:56] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 8\Resulting Close: 1.25316
+Previous Close: 1.25306
+Direction: 9.999999999998899e-05
+[2024-04-11] - [11:23:56] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 9
+[2024-04-11] - [11:23:56] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 9\Resulting Close: 1.25306
+Previous Close: 1.2534
+Direction: -0.00034000000000000696
+[2024-04-11] - [11:23:56] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 10
+[2024-04-11] - [11:23:56] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 10\Resulting Close: 1.2534
+Previous Close: 1.25349
+Direction: -8.999999999992347e-05
+[2024-04-11] - [11:23:56] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 11
+[2024-04-11] - [11:23:56] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 11\Resulting Close: 1.25349
+Previous Close: 1.25358
+Direction: -8.999999999992347e-05
+[2024-04-11] - [11:23:56] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 12
+[2024-04-11] - [11:23:56] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 12\Resulting Close: 1.25358
+Previous Close: 1.2536100000000001
+Direction: -3.0000000000196536e-05
+[2024-04-11] - [11:23:56] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 13
+[2024-04-11] - [11:23:56] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 13\Resulting Close: 1.2536100000000001
+Previous Close: 1.25367
+Direction: -5.999999999994898e-05
+[2024-04-11] - [11:23:56] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 14
+[2024-04-11] - [11:23:56] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 14\Resulting Close: 1.25367
+Previous Close: 1.2536800000000001
+Direction: -1.0000000000065512e-05
+[2024-04-11] - [11:23:56] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 15
+[2024-04-11] - [11:23:56] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 15\Resulting Close: 1.2536800000000001
+Previous Close: 1.25359
+Direction: 9.000000000014552e-05
+[2024-04-11] - [11:23:56] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 16
+[2024-04-11] - [11:23:56] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 16\Resulting Close: 1.25359
+Previous Close: 1.2535
+Direction: 8.999999999992347e-05
+[2024-04-11] - [11:23:56] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 17
+[2024-04-11] - [11:23:56] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 17\Resulting Close: 1.2535
+Previous Close: 1.2535
+Direction: 0.0
+[2024-04-11] - [11:23:56] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 18
+[2024-04-11] - [11:23:56] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 18\Resulting Close: 1.2535
+Previous Close: 1.2537099999999999
+Direction: -0.00020999999999982144
+[2024-04-11] - [11:23:56] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 19
+[2024-04-11] - [11:23:56] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 19\Resulting Close: 1.2537099999999999
+Previous Close: 1.25388
+Direction: -0.00017000000000022553
+[2024-04-11] - [11:23:56] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 20
+[2024-04-11] - [11:23:56] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 20\Resulting Close: 1.25388
+Previous Close: 1.25385
+Direction: 3.0000000000196536e-05
+[2024-04-11] - [11:23:56] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 21
+[2024-04-11] - [11:23:56] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 21\Resulting Close: 1.25385
+Previous Close: 1.2536
+Direction: 0.00024999999999986144
+[2024-04-11] - [11:23:56] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 22
+[2024-04-11] - [11:23:57] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 22\Resulting Close: 1.2536
+Previous Close: 1.25365
+Direction: -4.999999999988347e-05
+[2024-04-11] - [11:23:57] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 23
+[2024-04-11] - [11:23:57] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 23\Resulting Close: 1.25365
+Previous Close: 1.2535
+Direction: 0.00014999999999987246
+[2024-04-11] - [11:23:57] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 24
+[2024-04-11] - [11:23:57] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 24\Resulting Close: 1.2535
+Previous Close: 1.25352
+Direction: -1.999999999990898e-05
+[2024-04-11] - [11:23:57] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 25
+[2024-04-11] - [11:23:57] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 25\Resulting Close: 1.25352
+Previous Close: 1.25347
+Direction: 4.999999999988347e-05
+[2024-04-11] - [11:23:57] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 26
+[2024-04-11] - [11:23:57] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 26\Resulting Close: 1.25347
+Previous Close: 1.25338
+Direction: 9.000000000014552e-05
+[2024-04-11] - [11:23:57] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 27
+[2024-04-11] - [11:23:57] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 27\Resulting Close: 1.25338
+Previous Close: 1.2533699999999999
+Direction: 1.0000000000065512e-05
+[2024-04-11] - [11:23:57] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 28
+[2024-04-11] - [11:23:57] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 28\Resulting Close: 1.2533699999999999
+Previous Close: 1.25381
+Direction: -0.000440000000000218
+[2024-04-11] - [11:23:57] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 29
+[2024-04-11] - [11:23:57] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 29\Resulting Close: 1.25381
+Previous Close: 1.25386
+Direction: -4.999999999988347e-05
+[2024-04-11] - [11:23:57] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 30
+[2024-04-11] - [11:23:57] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 30\Resulting Close: 1.25386
+Previous Close: 1.25388
+Direction: -2.0000000000131024e-05
+[2024-04-11] - [11:23:57] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 31
+[2024-04-11] - [11:23:57] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 31\Resulting Close: 1.25388
+Previous Close: 1.25366
+Direction: 0.000220000000000109
+[2024-04-11] - [11:23:57] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 32
+[2024-04-11] - [11:23:57] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 32\Resulting Close: 1.25366
+Previous Close: 1.25366
+Direction: 0.0
+[2024-04-11] - [11:23:57] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 33
+[2024-04-11] - [11:23:57] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 33\Resulting Close: 1.25366
+Previous Close: 1.25359
+Direction: 7.00000000000145e-05
+[2024-04-11] - [11:23:57] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 34
+[2024-04-11] - [11:23:57] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 34\Resulting Close: 1.25359
+Previous Close: 1.25369
+Direction: -9.999999999998899e-05
+[2024-04-11] - [11:23:57] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 35
+[2024-04-11] - [11:23:57] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 35\Resulting Close: 1.25369
+Previous Close: 1.25366
+Direction: 2.999999999997449e-05
+[2024-04-11] - [11:23:57] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 36
+[2024-04-11] - [11:23:57] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 36\Resulting Close: 1.25366
+Previous Close: 1.25367
+Direction: -1.0000000000065512e-05
+[2024-04-11] - [11:23:57] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 37
+[2024-04-11] - [11:23:57] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 37\Resulting Close: 1.25367
+Previous Close: 1.25379
+Direction: -0.00011999999999989797
+[2024-04-11] - [11:23:57] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 38
+[2024-04-11] - [11:23:57] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 38\Resulting Close: 1.25379
+Previous Close: 1.25383
+Direction: -4.0000000000040004e-05
+[2024-04-11] - [11:23:57] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 39
+[2024-04-11] - [11:23:57] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 39\Resulting Close: 1.25383
+Previous Close: 1.25381
+Direction: 1.999999999990898e-05
+[2024-04-11] - [11:23:57] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 40
+[2024-04-11] - [11:23:57] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 40\Resulting Close: 1.25381
+Previous Close: 1.2539
+Direction: -8.999999999992347e-05
+[2024-04-11] - [11:23:57] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 41
+[2024-04-11] - [11:23:57] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 41\Resulting Close: 1.2539
+Previous Close: 1.2540200000000001
+Direction: -0.00012000000000012001
+[2024-04-11] - [11:23:57] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 42
+[2024-04-11] - [11:23:57] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 42\Resulting Close: 1.2540200000000001
+Previous Close: 1.25401
+Direction: 1.0000000000065512e-05
+[2024-04-11] - [11:23:57] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 43
+[2024-04-11] - [11:23:57] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 43\Resulting Close: 1.25401
+Previous Close: 1.25389
+Direction: 0.00012000000000012001
+[2024-04-11] - [11:23:57] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 44
+[2024-04-11] - [11:23:57] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 44\Resulting Close: 1.25389
+Previous Close: 1.25411
+Direction: -0.000220000000000109
+[2024-04-11] - [11:23:57] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 45
+[2024-04-11] - [11:23:57] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 45\Resulting Close: 1.25411
+Previous Close: 1.25411
+Direction: 0.0
+[2024-04-11] - [11:23:57] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 46
+[2024-04-11] - [11:23:57] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 46\Resulting Close: 1.25411
+Previous Close: 1.25419
+Direction: -7.999999999985796e-05
+[2024-04-11] - [11:23:57] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 47
+[2024-04-11] - [11:23:57] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 47\Resulting Close: 1.25419
+Previous Close: 1.2542
+Direction: -1.0000000000065512e-05
+[2024-04-11] - [11:23:57] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 48
+[2024-04-11] - [11:23:57] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 48\Resulting Close: 1.2542
+Previous Close: 1.25419
+Direction: 1.0000000000065512e-05
+[2024-04-11] - [11:23:57] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 49
+[2024-04-11] - [11:23:57] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 49\Resulting Close: 1.25419
+Previous Close: 1.25428
+Direction: -9.000000000014552e-05
+[2024-04-11] - [11:24:03] ->>> D:\GITHUB\Traider\pattern.py ->> 1 -> -0.49999857
+[2024-04-11] - [11:24:59] ->>> D:\GITHUB\Traider\pattern.py ->> 1 -> -0.5002474
+[2024-04-11] - [11:25:36] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 0
+[2024-04-11] - [11:25:37] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 0\Resulting Close: 1.2536
+Previous Close: 1.25362
+Direction: -1.999999999990898e-05
+[2024-04-11] - [11:25:37] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 1
+[2024-04-11] - [11:25:37] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 1\Resulting Close: 1.2536
+Previous Close: 1.25362
+Direction: -1.999999999990898e-05
+[2024-04-11] - [11:25:37] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 2
+[2024-04-11] - [11:25:37] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 2\Resulting Close: 1.25362
+Previous Close: 1.25349
+Direction: 0.00012999999999996348
+[2024-04-11] - [11:25:37] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 3
+[2024-04-11] - [11:25:37] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 3\Resulting Close: 1.25349
+Previous Close: 1.25347
+Direction: 1.999999999990898e-05
+[2024-04-11] - [11:25:37] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 4
+[2024-04-11] - [11:25:37] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 4\Resulting Close: 1.25347
+Previous Close: 1.25349
+Direction: -1.999999999990898e-05
+[2024-04-11] - [11:25:37] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 5
+[2024-04-11] - [11:25:37] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 5\Resulting Close: 1.25349
+Previous Close: 1.2536
+Direction: -0.0001100000000000545
+[2024-04-11] - [11:25:37] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 6
+[2024-04-11] - [11:25:37] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 6\Resulting Close: 1.2536
+Previous Close: 1.25366
+Direction: -5.999999999994898e-05
+[2024-04-11] - [11:25:37] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 7
+[2024-04-11] - [11:25:37] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 7\Resulting Close: 1.25366
+Previous Close: 1.25349
+Direction: 0.00017000000000000348
+[2024-04-11] - [11:25:37] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 8
+[2024-04-11] - [11:25:37] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 8\Resulting Close: 1.25349
+Previous Close: 1.25327
+Direction: 0.00021999999999988695
+[2024-04-11] - [11:25:37] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 9
+[2024-04-11] - [11:25:37] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 9\Resulting Close: 1.25327
+Previous Close: 1.25316
+Direction: 0.0001100000000000545
+[2024-04-11] - [11:25:37] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 10
+[2024-04-11] - [11:25:37] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 10\Resulting Close: 1.25316
+Previous Close: 1.25306
+Direction: 9.999999999998899e-05
+[2024-04-11] - [11:25:37] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 11
+[2024-04-11] - [11:25:38] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 11\Resulting Close: 1.25306
+Previous Close: 1.2534
+Direction: -0.00034000000000000696
+[2024-04-11] - [11:25:38] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 12
+[2024-04-11] - [11:25:38] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 12\Resulting Close: 1.2534
+Previous Close: 1.25349
+Direction: -8.999999999992347e-05
+[2024-04-11] - [11:25:38] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 13
+[2024-04-11] - [11:25:38] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 13\Resulting Close: 1.25349
+Previous Close: 1.25358
+Direction: -8.999999999992347e-05
+[2024-04-11] - [11:25:38] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 14
+[2024-04-11] - [11:25:38] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 14\Resulting Close: 1.25358
+Previous Close: 1.2536100000000001
+Direction: -3.0000000000196536e-05
+[2024-04-11] - [11:25:38] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 15
+[2024-04-11] - [11:25:38] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 15\Resulting Close: 1.2536100000000001
+Previous Close: 1.25367
+Direction: -5.999999999994898e-05
+[2024-04-11] - [11:25:38] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 16
+[2024-04-11] - [11:25:38] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 16\Resulting Close: 1.25367
+Previous Close: 1.2536800000000001
+Direction: -1.0000000000065512e-05
+[2024-04-11] - [11:25:38] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 17
+[2024-04-11] - [11:25:38] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 17\Resulting Close: 1.2536800000000001
+Previous Close: 1.25359
+Direction: 9.000000000014552e-05
+[2024-04-11] - [11:25:38] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 18
+[2024-04-11] - [11:25:38] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 18\Resulting Close: 1.25359
+Previous Close: 1.2535
+Direction: 8.999999999992347e-05
+[2024-04-11] - [11:25:38] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 19
+[2024-04-11] - [11:25:38] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 19\Resulting Close: 1.2535
+Previous Close: 1.2535
+Direction: 0.0
+[2024-04-11] - [11:25:38] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 20
+[2024-04-11] - [11:25:38] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 20\Resulting Close: 1.2535
+Previous Close: 1.2537099999999999
+Direction: -0.00020999999999982144
+[2024-04-11] - [11:25:38] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 21
+[2024-04-11] - [11:25:38] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 21\Resulting Close: 1.2537099999999999
+Previous Close: 1.25388
+Direction: -0.00017000000000022553
+[2024-04-11] - [11:25:38] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 22
+[2024-04-11] - [11:25:38] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 22\Resulting Close: 1.25388
+Previous Close: 1.25385
+Direction: 3.0000000000196536e-05
+[2024-04-11] - [11:25:38] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 23
+[2024-04-11] - [11:25:38] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 23\Resulting Close: 1.25385
+Previous Close: 1.2536
+Direction: 0.00024999999999986144
+[2024-04-11] - [11:25:38] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 24
+[2024-04-11] - [11:25:38] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 24\Resulting Close: 1.2536
+Previous Close: 1.25365
+Direction: -4.999999999988347e-05
+[2024-04-11] - [11:25:38] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 25
+[2024-04-11] - [11:25:38] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 25\Resulting Close: 1.25365
+Previous Close: 1.2535
+Direction: 0.00014999999999987246
+[2024-04-11] - [11:25:38] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 26
+[2024-04-11] - [11:25:38] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 26\Resulting Close: 1.2535
+Previous Close: 1.25352
+Direction: -1.999999999990898e-05
+[2024-04-11] - [11:25:38] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 27
+[2024-04-11] - [11:25:38] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 27\Resulting Close: 1.25352
+Previous Close: 1.25347
+Direction: 4.999999999988347e-05
+[2024-04-11] - [11:25:38] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 28
+[2024-04-11] - [11:25:38] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 28\Resulting Close: 1.25347
+Previous Close: 1.25338
+Direction: 9.000000000014552e-05
+[2024-04-11] - [11:25:38] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 29
+[2024-04-11] - [11:25:38] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 29\Resulting Close: 1.25338
+Previous Close: 1.2533699999999999
+Direction: 1.0000000000065512e-05
+[2024-04-11] - [11:25:38] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 30
+[2024-04-11] - [11:25:38] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 30\Resulting Close: 1.2533699999999999
+Previous Close: 1.25381
+Direction: -0.000440000000000218
+[2024-04-11] - [11:25:38] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 31
+[2024-04-11] - [11:25:38] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 31\Resulting Close: 1.25381
+Previous Close: 1.25386
+Direction: -4.999999999988347e-05
+[2024-04-11] - [11:25:38] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 32
+[2024-04-11] - [11:25:38] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 32\Resulting Close: 1.25386
+Previous Close: 1.25388
+Direction: -2.0000000000131024e-05
+[2024-04-11] - [11:25:38] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 33
+[2024-04-11] - [11:25:38] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 33\Resulting Close: 1.25388
+Previous Close: 1.25366
+Direction: 0.000220000000000109
+[2024-04-11] - [11:25:38] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 34
+[2024-04-11] - [11:25:38] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 34\Resulting Close: 1.25366
+Previous Close: 1.25366
+Direction: 0.0
+[2024-04-11] - [11:25:38] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 35
+[2024-04-11] - [11:25:38] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 35\Resulting Close: 1.25366
+Previous Close: 1.25359
+Direction: 7.00000000000145e-05
+[2024-04-11] - [11:25:38] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 36
+[2024-04-11] - [11:25:38] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 36\Resulting Close: 1.25359
+Previous Close: 1.25369
+Direction: -9.999999999998899e-05
+[2024-04-11] - [11:25:38] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 37
+[2024-04-11] - [11:25:38] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 37\Resulting Close: 1.25369
+Previous Close: 1.25366
+Direction: 2.999999999997449e-05
+[2024-04-11] - [11:25:38] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 38
+[2024-04-11] - [11:25:38] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 38\Resulting Close: 1.25366
+Previous Close: 1.25367
+Direction: -1.0000000000065512e-05
+[2024-04-11] - [11:25:38] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 39
+[2024-04-11] - [11:25:38] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 39\Resulting Close: 1.25367
+Previous Close: 1.25379
+Direction: -0.00011999999999989797
+[2024-04-11] - [11:25:38] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 40
+[2024-04-11] - [11:25:38] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 40\Resulting Close: 1.25379
+Previous Close: 1.25383
+Direction: -4.0000000000040004e-05
+[2024-04-11] - [11:25:38] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 41
+[2024-04-11] - [11:25:38] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 41\Resulting Close: 1.25383
+Previous Close: 1.25381
+Direction: 1.999999999990898e-05
+[2024-04-11] - [11:25:38] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 42
+[2024-04-11] - [11:25:38] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 42\Resulting Close: 1.25381
+Previous Close: 1.2539
+Direction: -8.999999999992347e-05
+[2024-04-11] - [11:25:38] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 43
+[2024-04-11] - [11:25:38] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 43\Resulting Close: 1.2539
+Previous Close: 1.2540200000000001
+Direction: -0.00012000000000012001
+[2024-04-11] - [11:25:38] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 44
+[2024-04-11] - [11:25:38] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 44\Resulting Close: 1.2540200000000001
+Previous Close: 1.25401
+Direction: 1.0000000000065512e-05
+[2024-04-11] - [11:25:38] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 45
+[2024-04-11] - [11:25:38] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 45\Resulting Close: 1.25401
+Previous Close: 1.25389
+Direction: 0.00012000000000012001
+[2024-04-11] - [11:25:38] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 46
+[2024-04-11] - [11:25:38] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 46\Resulting Close: 1.25389
+Previous Close: 1.25411
+Direction: -0.000220000000000109
+[2024-04-11] - [11:25:38] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 47
+[2024-04-11] - [11:25:38] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 47\Resulting Close: 1.25411
+Previous Close: 1.25411
+Direction: 0.0
+[2024-04-11] - [11:25:38] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 48
+[2024-04-11] - [11:25:38] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 48\Resulting Close: 1.25411
+Previous Close: 1.25419
+Direction: -7.999999999985796e-05
+[2024-04-11] - [11:25:38] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 49
+[2024-04-11] - [11:25:38] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 49\Resulting Close: 1.25419
+Previous Close: 1.2542
+Direction: -1.0000000000065512e-05
+[2024-04-11] - [11:25:38] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 50
+[2024-04-11] - [11:25:38] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 50\Resulting Close: 1.2542
+Previous Close: 1.25419
+Direction: 1.0000000000065512e-05
+[2024-04-11] - [11:25:38] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 51
+[2024-04-11] - [11:25:38] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 51\Resulting Close: 1.25419
+Previous Close: 1.25428
+Direction: -9.000000000014552e-05
+[2024-04-11] - [11:25:38] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 52
+[2024-04-11] - [11:25:38] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 52\Resulting Close: 1.25428
+Previous Close: 1.2542900000000001
+Direction: -1.0000000000065512e-05
+[2024-04-11] - [11:25:38] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 53
+[2024-04-11] - [11:25:38] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 53\Resulting Close: 1.2542900000000001
+Previous Close: 1.2544
+Direction: -0.00010999999999983245
+[2024-04-11] - [11:25:38] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 54
+[2024-04-11] - [11:25:38] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 54\Resulting Close: 1.2544
+Previous Close: 1.25436
+Direction: 4.0000000000040004e-05
+[2024-04-11] - [11:25:38] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 55
+[2024-04-11] - [11:25:38] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 55\Resulting Close: 1.25436
+Previous Close: 1.25426
+Direction: 9.999999999998899e-05
+[2024-04-11] - [11:25:39] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 56
+[2024-04-11] - [11:25:39] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 56\Resulting Close: 1.25426
+Previous Close: 1.25437
+Direction: -0.0001100000000000545
+[2024-04-11] - [11:25:39] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 57
+[2024-04-11] - [11:25:39] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 57\Resulting Close: 1.25437
+Previous Close: 1.2542900000000001
+Direction: 7.999999999985796e-05
+[2024-04-11] - [11:25:39] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 58
+[2024-04-11] - [11:25:39] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 58\Resulting Close: 1.2542900000000001
+Previous Close: 1.2543
+Direction: -9.999999999843467e-06
+[2024-04-11] - [11:25:39] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 59
+[2024-04-11] - [11:25:39] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 59\Resulting Close: 1.2543
+Previous Close: 1.25427
+Direction: 2.999999999997449e-05
+[2024-04-11] - [11:25:39] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 60
+[2024-04-11] - [11:25:39] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 60\Resulting Close: 1.25427
+Previous Close: 1.25443
+Direction: -0.00015999999999993797
+[2024-04-11] - [11:25:39] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 61
+[2024-04-11] - [11:25:39] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 61\Resulting Close: 1.25443
+Previous Close: 1.25439
+Direction: 4.0000000000040004e-05
+[2024-04-11] - [11:25:39] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 62
+[2024-04-11] - [11:25:39] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 62\Resulting Close: 1.25439
+Previous Close: 1.25433
+Direction: 5.999999999994898e-05
+[2024-04-11] - [11:25:39] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 63
+[2024-04-11] - [11:25:39] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 63\Resulting Close: 1.25433
+Previous Close: 1.25438
+Direction: -5.0000000000105516e-05
+[2024-04-11] - [11:25:39] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 64
+[2024-04-11] - [11:25:39] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 64\Resulting Close: 1.25438
+Previous Close: 1.2542900000000001
+Direction: 8.999999999992347e-05
+[2024-04-11] - [11:25:39] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 65
+[2024-04-11] - [11:25:39] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 65\Resulting Close: 1.2542900000000001
+Previous Close: 1.2543
+Direction: -9.999999999843467e-06
+[2024-04-11] - [11:25:39] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 66
+[2024-04-11] - [11:25:39] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 66\Resulting Close: 1.2543
+Previous Close: 1.25449
+Direction: -0.0001900000000001345
+[2024-04-11] - [11:25:39] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 67
+[2024-04-11] - [11:25:39] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 67\Resulting Close: 1.25449
+Previous Close: 1.2545
+Direction: -9.999999999843467e-06
+[2024-04-11] - [11:25:39] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 68
+[2024-04-11] - [11:25:39] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 68\Resulting Close: 1.2545
+Previous Close: 1.25443
+Direction: 7.00000000000145e-05
+[2024-04-11] - [11:25:39] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 69
+[2024-04-11] - [11:25:39] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 69\Resulting Close: 1.25443
+Previous Close: 1.25458
+Direction: -0.0001500000000000945
+[2024-04-11] - [11:25:39] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 70
+[2024-04-11] - [11:25:39] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 70\Resulting Close: 1.25458
+Previous Close: 1.25464
+Direction: -5.999999999994898e-05
+[2024-04-11] - [11:25:39] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 71
+[2024-04-11] - [11:25:39] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 71\Resulting Close: 1.25464
+Previous Close: 1.25458
+Direction: 5.999999999994898e-05
+[2024-04-11] - [11:25:39] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 72
+[2024-04-11] - [11:25:39] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 72\Resulting Close: 1.25458
+Previous Close: 1.25465
+Direction: -7.00000000000145e-05
+[2024-04-11] - [11:25:39] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 73
+[2024-04-11] - [11:25:39] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 73\Resulting Close: 1.25465
+Previous Close: 1.25487
+Direction: -0.00021999999999988695
+[2024-04-11] - [11:25:39] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 74
+[2024-04-11] - [11:25:39] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 74\Resulting Close: 1.25487
+Previous Close: 1.2548
+Direction: 7.00000000000145e-05
+[2024-04-11] - [11:25:39] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 75
+[2024-04-11] - [11:25:39] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 75\Resulting Close: 1.2548
+Previous Close: 1.25469
+Direction: 0.00010999999999983245
+[2024-04-11] - [11:25:39] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 76
+[2024-04-11] - [11:25:39] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 76\Resulting Close: 1.25469
+Previous Close: 1.25469
+Direction: 0.0
+[2024-04-11] - [11:25:39] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 77
+[2024-04-11] - [11:25:39] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 77\Resulting Close: 1.25469
+Previous Close: 1.2548300000000001
+Direction: -0.000140000000000029
+[2024-04-11] - [11:25:39] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 78
+[2024-04-11] - [11:25:39] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 78\Resulting Close: 1.2548300000000001
+Previous Close: 1.25498
+Direction: -0.00014999999999987246
+[2024-04-11] - [11:25:39] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 79
+[2024-04-11] - [11:25:39] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 79\Resulting Close: 1.25498
+Previous Close: 1.25497
+Direction: 1.0000000000065512e-05
+[2024-04-11] - [11:25:39] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 80
+[2024-04-11] - [11:25:39] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 80\Resulting Close: 1.25497
+Previous Close: 1.25508
+Direction: -0.0001100000000000545
+[2024-04-11] - [11:25:39] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 81
+[2024-04-11] - [11:25:39] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 81\Resulting Close: 1.25508
+Previous Close: 1.2551999999999999
+Direction: -0.00011999999999989797
+[2024-04-11] - [11:25:39] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 82
+[2024-04-11] - [11:25:39] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 82\Resulting Close: 1.2551999999999999
+Previous Close: 1.25528
+Direction: -8.000000000008001e-05
+[2024-04-11] - [11:25:39] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 83
+[2024-04-11] - [11:25:39] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 83\Resulting Close: 1.25528
+Previous Close: 1.25522
+Direction: 5.999999999994898e-05
+[2024-04-11] - [11:25:39] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 84
+[2024-04-11] - [11:25:39] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 84\Resulting Close: 1.25522
+Previous Close: 1.25509
+Direction: 0.00012999999999996348
+[2024-04-11] - [11:25:39] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 85
+[2024-04-11] - [11:25:39] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 85\Resulting Close: 1.25509
+Previous Close: 1.25487
+Direction: 0.000220000000000109
+[2024-04-11] - [11:25:39] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 86
+[2024-04-11] - [11:25:39] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 86\Resulting Close: 1.25487
+Previous Close: 1.25503
+Direction: -0.00016000000000016001
+[2024-04-11] - [11:25:39] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 87
+[2024-04-11] - [11:25:39] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 87\Resulting Close: 1.25503
+Previous Close: 1.25532
+Direction: -0.00028999999999990145
+[2024-04-11] - [11:25:39] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 88
+[2024-04-11] - [11:25:39] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 88\Resulting Close: 1.25532
+Previous Close: 1.2554
+Direction: -8.000000000008001e-05
+[2024-04-11] - [11:25:39] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 89
+[2024-04-11] - [11:25:39] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 89\Resulting Close: 1.2554
+Previous Close: 1.2555
+Direction: -9.999999999998899e-05
+[2024-04-11] - [11:25:39] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 90
+[2024-04-11] - [11:25:39] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 90\Resulting Close: 1.2555
+Previous Close: 1.25557
+Direction: -7.00000000000145e-05
+[2024-04-11] - [11:25:39] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 91
+[2024-04-11] - [11:25:39] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 91\Resulting Close: 1.25557
+Previous Close: 1.25558
+Direction: -9.999999999843467e-06
+[2024-04-11] - [11:25:39] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 92
+[2024-04-11] - [11:25:39] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 92\Resulting Close: 1.25558
+Previous Close: 1.2554
+Direction: 0.00017999999999984695
+[2024-04-11] - [11:25:39] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 93
+[2024-04-11] - [11:25:39] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 93\Resulting Close: 1.2554
+Previous Close: 1.25513
+Direction: 0.00026999999999999247
+[2024-04-11] - [11:25:39] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 94
+[2024-04-11] - [11:25:39] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 94\Resulting Close: 1.25513
+Previous Close: 1.25531
+Direction: -0.00017999999999984695
+[2024-04-11] - [11:25:39] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 95
+[2024-04-11] - [11:25:39] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 95\Resulting Close: 1.25531
+Previous Close: 1.25519
+Direction: 0.00011999999999989797
+[2024-04-11] - [11:25:39] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 96
+[2024-04-11] - [11:25:39] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 96\Resulting Close: 1.25519
+Previous Close: 1.25525
+Direction: -5.999999999994898e-05
+[2024-04-11] - [11:25:39] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 97
+[2024-04-11] - [11:25:39] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 97\Resulting Close: 1.25525
+Previous Close: 1.25531
+Direction: -5.999999999994898e-05
+[2024-04-11] - [11:25:39] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 98
+[2024-04-11] - [11:25:39] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 98\Resulting Close: 1.25531
+Previous Close: 1.25538
+Direction: -7.00000000000145e-05
+[2024-04-11] - [11:25:39] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 99
+[2024-04-11] - [11:25:39] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 99\Resulting Close: 1.25538
+Previous Close: 1.25569
+Direction: -0.00031000000000003247
+[2024-04-11] - [11:25:39] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 100
+[2024-04-11] - [11:25:39] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 100\Resulting Close: 1.25569
+Previous Close: 1.25598
+Direction: -0.0002900000000001235
+[2024-04-11] - [11:25:40] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 101
+[2024-04-11] - [11:25:40] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 101\Resulting Close: 1.25598
+Previous Close: 1.25618
+Direction: -0.00019999999999997797
+[2024-04-11] - [11:25:40] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 102
+[2024-04-11] - [11:25:40] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 102\Resulting Close: 1.25618
+Previous Close: 1.25618
+Direction: 0.0
+[2024-04-11] - [11:25:40] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 103
+[2024-04-11] - [11:25:40] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 103\Resulting Close: 1.25618
+Previous Close: 1.2561
+Direction: 8.000000000008001e-05
+[2024-04-11] - [11:25:40] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 104
+[2024-04-11] - [11:25:40] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 104\Resulting Close: 1.2561
+Previous Close: 1.25589
+Direction: 0.00021000000000004349
+[2024-04-11] - [11:25:40] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 105
+[2024-04-11] - [11:25:40] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 105\Resulting Close: 1.25589
+Previous Close: 1.25603
+Direction: -0.000140000000000029
+[2024-04-11] - [11:25:40] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 106
+[2024-04-11] - [11:25:40] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 106\Resulting Close: 1.25603
+Previous Close: 1.2561499999999999
+Direction: -0.00011999999999989797
+[2024-04-11] - [11:25:40] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 107
+[2024-04-11] - [11:25:40] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 107\Resulting Close: 1.2561499999999999
+Previous Close: 1.25614
+Direction: 9.999999999843467e-06
+[2024-04-11] - [11:25:40] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 108
+[2024-04-11] - [11:25:40] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 108\Resulting Close: 1.25614
+Previous Close: 1.2564
+Direction: -0.00025999999999992696
+[2024-04-11] - [11:25:40] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 109
+[2024-04-11] - [11:25:40] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 109\Resulting Close: 1.2564
+Previous Close: 1.2564
+Direction: 0.0
+[2024-04-11] - [11:25:40] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 110
+[2024-04-11] - [11:25:40] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 110\Resulting Close: 1.2564
+Previous Close: 1.25633
+Direction: 7.00000000000145e-05
+[2024-04-11] - [11:25:40] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 111
+[2024-04-11] - [11:25:40] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 111\Resulting Close: 1.25633
+Previous Close: 1.2565
+Direction: -0.00017000000000000348
+[2024-04-11] - [11:25:40] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 112
+[2024-04-11] - [11:25:40] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 112\Resulting Close: 1.2565
+Previous Close: 1.2564600000000001
+Direction: 3.999999999981796e-05
+[2024-04-11] - [11:25:40] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 113
+[2024-04-11] - [11:25:40] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 113\Resulting Close: 1.2564600000000001
+Previous Close: 1.25652
+Direction: -5.999999999994898e-05
+[2024-04-11] - [11:25:40] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 114
+[2024-04-11] - [11:25:40] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 114\Resulting Close: 1.25652
+Previous Close: 1.2564600000000001
+Direction: 5.999999999994898e-05
+[2024-04-11] - [11:25:40] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 115
+[2024-04-11] - [11:25:40] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 115\Resulting Close: 1.2564600000000001
+Previous Close: 1.2564
+Direction: 6.000000000017103e-05
+[2024-04-11] - [11:25:40] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 116
+[2024-04-11] - [11:25:40] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 116\Resulting Close: 1.2564
+Previous Close: 1.25657
+Direction: -0.00017000000000000348
+[2024-04-11] - [11:25:40] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 117
+[2024-04-11] - [11:25:40] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 117\Resulting Close: 1.25657
+Previous Close: 1.25659
+Direction: -2.0000000000131024e-05
+[2024-04-11] - [11:25:40] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 118
+[2024-04-11] - [11:25:40] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 118\Resulting Close: 1.25659
+Previous Close: 1.25689
+Direction: -0.00029999999999996696
+[2024-04-11] - [11:25:40] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 119
+[2024-04-11] - [11:25:40] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 119\Resulting Close: 1.25689
+Previous Close: 1.25682
+Direction: 7.00000000000145e-05
+[2024-04-11] - [11:25:40] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 120
+[2024-04-11] - [11:25:40] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 120\Resulting Close: 1.25682
+Previous Close: 1.25664
+Direction: 0.000180000000000069
+[2024-04-11] - [11:25:40] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 121
+[2024-04-11] - [11:25:40] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 121\Resulting Close: 1.25664
+Previous Close: 1.25688
+Direction: -0.00024000000000001798
+[2024-04-11] - [11:25:40] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 122
+[2024-04-11] - [11:25:40] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 122\Resulting Close: 1.25688
+Previous Close: 1.2567599999999999
+Direction: 0.00012000000000012001
+[2024-04-11] - [11:25:40] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 123
+[2024-04-11] - [11:25:40] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 123\Resulting Close: 1.2567599999999999
+Previous Close: 1.25681
+Direction: -5.0000000000105516e-05
+[2024-04-11] - [11:25:40] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 124
+[2024-04-11] - [11:25:40] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 124\Resulting Close: 1.25681
+Previous Close: 1.25683
+Direction: -1.999999999990898e-05
+[2024-04-11] - [11:25:40] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 125
+[2024-04-11] - [11:25:40] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 125\Resulting Close: 1.25683
+Previous Close: 1.25685
+Direction: -2.0000000000131024e-05
+[2024-04-11] - [11:25:40] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 126
+[2024-04-11] - [11:25:40] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 126\Resulting Close: 1.25685
+Previous Close: 1.25692
+Direction: -7.00000000000145e-05
+[2024-04-11] - [11:25:40] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 127
+[2024-04-11] - [11:25:40] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 127\Resulting Close: 1.25692
+Previous Close: 1.25681
+Direction: 0.0001100000000000545
+[2024-04-11] - [11:25:40] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 128
+[2024-04-11] - [11:25:40] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 128\Resulting Close: 1.25681
+Previous Close: 1.2566
+Direction: 0.00021000000000004349
+[2024-04-11] - [11:25:40] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 129
+[2024-04-11] - [11:25:40] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 129\Resulting Close: 1.2566
+Previous Close: 1.25644
+Direction: 0.00015999999999993797
+[2024-04-11] - [11:25:40] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 130
+[2024-04-11] - [11:25:40] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 130\Resulting Close: 1.25644
+Previous Close: 1.2564899999999999
+Direction: -4.999999999988347e-05
+[2024-04-11] - [11:25:40] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 131
+[2024-04-11] - [11:25:40] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 131\Resulting Close: 1.2564899999999999
+Previous Close: 1.25651
+Direction: -2.0000000000131024e-05
+[2024-04-11] - [11:25:40] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 132
+[2024-04-11] - [11:25:40] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 132\Resulting Close: 1.25651
+Previous Close: 1.25651
+Direction: 0.0
+[2024-04-11] - [11:25:40] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 133
+[2024-04-11] - [11:25:40] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 133\Resulting Close: 1.25651
+Previous Close: 1.2567300000000001
+Direction: -0.000220000000000109
+[2024-04-11] - [11:25:40] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 134
+[2024-04-11] - [11:25:40] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 134\Resulting Close: 1.2567300000000001
+Previous Close: 1.25666
+Direction: 7.00000000000145e-05
+[2024-04-11] - [11:25:40] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 135
+[2024-04-11] - [11:25:40] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 135\Resulting Close: 1.25666
+Previous Close: 1.25661
+Direction: 5.0000000000105516e-05
+[2024-04-11] - [11:25:40] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 136
+[2024-04-11] - [11:25:40] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 136\Resulting Close: 1.25661
+Previous Close: 1.25671
+Direction: -9.999999999998899e-05
+[2024-04-11] - [11:25:40] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 137
+[2024-04-11] - [11:25:40] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 137\Resulting Close: 1.25671
+Previous Close: 1.2566
+Direction: 0.0001100000000000545
+[2024-04-11] - [11:25:40] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 138
+[2024-04-11] - [11:25:40] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 138\Resulting Close: 1.2566
+Previous Close: 1.25654
+Direction: 5.999999999994898e-05
+[2024-04-11] - [11:25:40] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 139
+[2024-04-11] - [11:25:40] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 139\Resulting Close: 1.25654
+Previous Close: 1.25666
+Direction: -0.00012000000000012001
+[2024-04-11] - [11:25:41] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 140
+[2024-04-11] - [11:25:41] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 140\Resulting Close: 1.25666
+Previous Close: 1.25648
+Direction: 0.000180000000000069
+[2024-04-11] - [11:25:41] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 141
+[2024-04-11] - [11:25:41] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 141\Resulting Close: 1.25648
+Previous Close: 1.25664
+Direction: -0.00015999999999993797
+[2024-04-11] - [11:25:41] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 142
+[2024-04-11] - [11:25:41] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 142\Resulting Close: 1.25664
+Previous Close: 1.25677
+Direction: -0.00012999999999996348
+[2024-04-11] - [11:25:41] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 143
+[2024-04-11] - [11:25:41] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 143\Resulting Close: 1.25677
+Previous Close: 1.25654
+Direction: 0.00022999999999995246
+[2024-04-11] - [11:25:41] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 144
+[2024-04-11] - [11:25:41] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 144\Resulting Close: 1.25654
+Previous Close: 1.25645
+Direction: 8.999999999992347e-05
+[2024-04-11] - [11:25:41] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 145
+[2024-04-11] - [11:25:41] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 145\Resulting Close: 1.25645
+Previous Close: 1.25635
+Direction: 9.999999999998899e-05
+[2024-04-11] - [11:25:41] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 146
+[2024-04-11] - [11:25:41] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 146\Resulting Close: 1.25635
+Previous Close: 1.25607
+Direction: 0.000280000000000058
+[2024-04-11] - [11:25:41] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 147
+[2024-04-11] - [11:25:41] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 147\Resulting Close: 1.25607
+Previous Close: 1.25606
+Direction: 1.0000000000065512e-05
+[2024-04-11] - [11:25:41] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 148
+[2024-04-11] - [11:25:41] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 148\Resulting Close: 1.25606
+Previous Close: 1.25602
+Direction: 4.0000000000040004e-05
+[2024-04-11] - [11:25:41] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 149
+[2024-04-11] - [11:25:41] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 149\Resulting Close: 1.25602
+Previous Close: 1.25604
+Direction: -2.0000000000131024e-05
+[2024-04-11] - [11:25:41] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 150
+[2024-04-11] - [11:25:41] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 150\Resulting Close: 1.25604
+Previous Close: 1.25599
+Direction: 5.0000000000105516e-05
+[2024-04-11] - [11:25:41] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 151
+[2024-04-11] - [11:25:41] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 151\Resulting Close: 1.25599
+Previous Close: 1.25596
+Direction: 2.999999999997449e-05
+[2024-04-11] - [11:25:41] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 152
+[2024-04-11] - [11:25:41] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 152\Resulting Close: 1.25596
+Previous Close: 1.25597
+Direction: -1.0000000000065512e-05
+[2024-04-11] - [11:25:41] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 153
+[2024-04-11] - [11:25:41] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 153\Resulting Close: 1.25597
+Previous Close: 1.2558799999999999
+Direction: 9.000000000014552e-05
+[2024-04-11] - [11:25:41] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 154
+[2024-04-11] - [11:25:41] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 154\Resulting Close: 1.2558799999999999
+Previous Close: 1.25593
+Direction: -5.0000000000105516e-05
+[2024-04-11] - [11:25:41] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 155
+[2024-04-11] - [11:25:41] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 155\Resulting Close: 1.25593
+Previous Close: 1.25611
+Direction: -0.000180000000000069
+[2024-04-11] - [11:25:41] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 156
+[2024-04-11] - [11:25:41] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 156\Resulting Close: 1.25611
+Previous Close: 1.2558
+Direction: 0.00031000000000003247
+[2024-04-11] - [11:25:41] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 157
+[2024-04-11] - [11:25:41] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 157\Resulting Close: 1.2558
+Previous Close: 1.2557800000000001
+Direction: 1.999999999990898e-05
+[2024-04-11] - [11:25:41] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 158
+[2024-04-11] - [11:25:41] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 158\Resulting Close: 1.2557800000000001
+Previous Close: 1.25562
+Direction: 0.00016000000000016001
+[2024-04-11] - [11:25:41] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 159
+[2024-04-11] - [11:25:41] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 159\Resulting Close: 1.25562
+Previous Close: 1.25567
+Direction: -5.0000000000105516e-05
+[2024-04-11] - [11:25:41] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 160
+[2024-04-11] - [11:25:41] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 160\Resulting Close: 1.25567
+Previous Close: 1.25573
+Direction: -5.999999999994898e-05
+[2024-04-11] - [11:25:41] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 161
+[2024-04-11] - [11:25:41] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 161\Resulting Close: 1.25573
+Previous Close: 1.25553
+Direction: 0.00019999999999997797
+[2024-04-11] - [11:25:41] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 162
+[2024-04-11] - [11:25:41] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 162\Resulting Close: 1.25553
+Previous Close: 1.25518
+Direction: 0.0003500000000000725
+[2024-04-11] - [11:25:41] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 163
+[2024-04-11] - [11:25:41] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 163\Resulting Close: 1.25518
+Previous Close: 1.25506
+Direction: 0.00011999999999989797
+[2024-04-11] - [11:25:41] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 164
+[2024-04-11] - [11:25:41] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 164\Resulting Close: 1.25506
+Previous Close: 1.25487
+Direction: 0.0001900000000001345
+[2024-04-11] - [11:25:41] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 165
+[2024-04-11] - [11:25:41] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 165\Resulting Close: 1.25487
+Previous Close: 1.25498
+Direction: -0.0001100000000000545
+[2024-04-11] - [11:25:41] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 166
+[2024-04-11] - [11:25:41] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 166\Resulting Close: 1.25498
+Previous Close: 1.25507
+Direction: -8.999999999992347e-05
+[2024-04-11] - [11:25:41] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 167
+[2024-04-11] - [11:25:41] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 167\Resulting Close: 1.25507
+Previous Close: 1.25492
+Direction: 0.00014999999999987246
+[2024-04-11] - [11:25:41] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 168
+[2024-04-11] - [11:25:41] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 168\Resulting Close: 1.25492
+Previous Close: 1.25507
+Direction: -0.00014999999999987246
+[2024-04-11] - [11:25:41] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 169
+[2024-04-11] - [11:25:41] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 169\Resulting Close: 1.25507
+Previous Close: 1.25523
+Direction: -0.00016000000000016001
+[2024-04-11] - [11:25:41] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 170
+[2024-04-11] - [11:25:41] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 170\Resulting Close: 1.25523
+Previous Close: 1.2553
+Direction: -7.00000000000145e-05
+[2024-04-11] - [11:25:41] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 171
+[2024-04-11] - [11:25:41] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 171\Resulting Close: 1.2553
+Previous Close: 1.2555
+Direction: -0.00019999999999997797
+[2024-04-11] - [11:25:41] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 172
+[2024-04-11] - [11:25:41] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 172\Resulting Close: 1.2555
+Previous Close: 1.2556
+Direction: -9.999999999998899e-05
+[2024-04-11] - [11:25:41] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 173
+[2024-04-11] - [11:25:41] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 173\Resulting Close: 1.2556
+Previous Close: 1.25568
+Direction: -7.999999999985796e-05
+[2024-04-11] - [11:25:41] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 174
+[2024-04-11] - [11:25:41] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 174\Resulting Close: 1.25568
+Previous Close: 1.25559
+Direction: 8.999999999992347e-05
+[2024-04-11] - [11:25:41] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 175
+[2024-04-11] - [11:25:41] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 175\Resulting Close: 1.25559
+Previous Close: 1.25553
+Direction: 5.999999999994898e-05
+[2024-04-11] - [11:25:41] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 176
+[2024-04-11] - [11:25:41] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 176\Resulting Close: 1.25553
+Previous Close: 1.25559
+Direction: -5.999999999994898e-05
+[2024-04-11] - [11:25:41] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 177
+[2024-04-11] - [11:25:41] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 177\Resulting Close: 1.25559
+Previous Close: 1.2557800000000001
+Direction: -0.0001900000000001345
+[2024-04-11] - [11:25:41] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 178
+[2024-04-11] - [11:25:41] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 178\Resulting Close: 1.2557800000000001
+Previous Close: 1.25552
+Direction: 0.000260000000000149
+[2024-04-11] - [11:25:41] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 179
+[2024-04-11] - [11:25:41] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 179\Resulting Close: 1.25552
+Previous Close: 1.25583
+Direction: -0.00031000000000003247
+[2024-04-11] - [11:25:41] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 180
+[2024-04-11] - [11:25:41] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 180\Resulting Close: 1.25583
+Previous Close: 1.25567
+Direction: 0.00015999999999993797
+[2024-04-11] - [11:25:41] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 181
+[2024-04-11] - [11:25:41] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 181\Resulting Close: 1.25567
+Previous Close: 1.25565
+Direction: 2.0000000000131024e-05
+[2024-04-11] - [11:25:41] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 182
+[2024-04-11] - [11:25:41] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 182\Resulting Close: 1.25565
+Previous Close: 1.25572
+Direction: -7.00000000000145e-05
+[2024-04-11] - [11:25:41] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 183
+[2024-04-11] - [11:25:41] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 183\Resulting Close: 1.25572
+Previous Close: 1.2558099999999999
+Direction: -8.999999999992347e-05
+[2024-04-11] - [11:25:41] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 184
+[2024-04-11] - [11:25:42] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 184\Resulting Close: 1.2558099999999999
+Previous Close: 1.2557
+Direction: 0.00010999999999983245
+[2024-04-11] - [11:25:42] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 185
+[2024-04-11] - [11:25:42] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 185\Resulting Close: 1.2557
+Previous Close: 1.25562
+Direction: 8.000000000008001e-05
+[2024-04-11] - [11:25:42] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 186
+[2024-04-11] - [11:25:42] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 186\Resulting Close: 1.25562
+Previous Close: 1.25532
+Direction: 0.00029999999999996696
+[2024-04-11] - [11:25:42] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 187
+[2024-04-11] - [11:25:42] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 187\Resulting Close: 1.25532
+Previous Close: 1.25532
+Direction: 0.0
+[2024-04-11] - [11:25:42] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 188
+[2024-04-11] - [11:25:42] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 188\Resulting Close: 1.25532
+Previous Close: 1.25519
+Direction: 0.00012999999999996348
+[2024-04-11] - [11:25:42] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 189
+[2024-04-11] - [11:25:42] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 189\Resulting Close: 1.25519
+Previous Close: 1.25545
+Direction: -0.00025999999999992696
+[2024-04-11] - [11:25:42] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 190
+[2024-04-11] - [11:25:42] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 190\Resulting Close: 1.25545
+Previous Close: 1.2554400000000001
+Direction: 9.999999999843467e-06
+[2024-04-11] - [11:25:42] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 191
+[2024-04-11] - [11:25:42] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 191\Resulting Close: 1.2554400000000001
+Previous Close: 1.2551999999999999
+Direction: 0.00024000000000024002
+[2024-04-11] - [11:25:42] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 192
+[2024-04-11] - [11:25:42] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 192\Resulting Close: 1.2551999999999999
+Previous Close: 1.25503
+Direction: 0.00016999999999978144
+[2024-04-11] - [11:25:42] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 193
+[2024-04-11] - [11:25:42] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 193\Resulting Close: 1.25503
+Previous Close: 1.25494
+Direction: 9.000000000014552e-05
+[2024-04-11] - [11:25:42] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 194
+[2024-04-11] - [11:25:42] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 194\Resulting Close: 1.25494
+Previous Close: 1.25492
+Direction: 1.999999999990898e-05
+[2024-04-11] - [11:25:42] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 195
+[2024-04-11] - [11:25:42] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 195\Resulting Close: 1.25492
+Previous Close: 1.25471
+Direction: 0.00021000000000004349
+[2024-04-11] - [11:25:42] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 196
+[2024-04-11] - [11:25:42] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 196\Resulting Close: 1.25471
+Previous Close: 1.25464
+Direction: 7.00000000000145e-05
+[2024-04-11] - [11:25:42] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 197
+[2024-04-11] - [11:25:42] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 197\Resulting Close: 1.25464
+Previous Close: 1.25457
+Direction: 7.00000000000145e-05
+[2024-04-11] - [11:25:42] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 198
+[2024-04-11] - [11:25:42] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 198\Resulting Close: 1.25457
+Previous Close: 1.25443
+Direction: 0.000140000000000029
+[2024-04-11] - [11:25:42] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 199
+[2024-04-11] - [11:25:42] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 199\Resulting Close: 1.25443
+Previous Close: 1.25427
+Direction: 0.00015999999999993797
+[2024-04-11] - [11:25:42] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 200
+[2024-04-11] - [11:25:42] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 200\Resulting Close: 1.25427
+Previous Close: 1.25423
+Direction: 4.0000000000040004e-05
+[2024-04-11] - [11:25:42] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 201
+[2024-04-11] - [11:25:42] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 201\Resulting Close: 1.25423
+Previous Close: 1.25381
+Direction: 0.0004199999999998649
+[2024-04-11] - [11:25:42] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 202
+[2024-04-11] - [11:25:42] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 202\Resulting Close: 1.25381
+Previous Close: 1.2538
+Direction: 1.0000000000065512e-05
+[2024-04-11] - [11:25:42] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 203
+[2024-04-11] - [11:25:42] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 203\Resulting Close: 1.2538
+Previous Close: 1.25382
+Direction: -1.999999999990898e-05
+[2024-04-11] - [11:25:42] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 204
+[2024-04-11] - [11:25:42] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 204\Resulting Close: 1.25382
+Previous Close: 1.2536800000000001
+Direction: 0.00013999999999980695
+[2024-04-11] - [11:25:42] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 205
+[2024-04-11] - [11:25:42] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 205\Resulting Close: 1.2536800000000001
+Previous Close: 1.25363
+Direction: 5.0000000000105516e-05
+[2024-04-11] - [11:25:42] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 206
+[2024-04-11] - [11:25:42] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 206\Resulting Close: 1.25363
+Previous Close: 1.25348
+Direction: 0.0001500000000000945
+[2024-04-11] - [11:25:42] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 207
+[2024-04-11] - [11:25:42] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 207\Resulting Close: 1.25348
+Previous Close: 1.2533699999999999
+Direction: 0.0001100000000000545
+[2024-04-11] - [11:25:42] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 208
+[2024-04-11] - [11:25:42] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 208\Resulting Close: 1.2533699999999999
+Previous Close: 1.25349
+Direction: -0.00012000000000012001
+[2024-04-11] - [11:25:42] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 209
+[2024-04-11] - [11:25:42] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 209\Resulting Close: 1.25349
+Previous Close: 1.25355
+Direction: -5.999999999994898e-05
+[2024-04-11] - [11:25:42] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 210
+[2024-04-11] - [11:25:42] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 210\Resulting Close: 1.25355
+Previous Close: 1.25367
+Direction: -0.00012000000000012001
+[2024-04-11] - [11:25:42] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 211
+[2024-04-11] - [11:25:42] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 211\Resulting Close: 1.25367
+Previous Close: 1.25372
+Direction: -4.999999999988347e-05
+[2024-04-11] - [11:25:42] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 212
+[2024-04-11] - [11:25:42] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 212\Resulting Close: 1.25372
+Previous Close: 1.25369
+Direction: 2.999999999997449e-05
+[2024-04-11] - [11:25:42] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 213
+[2024-04-11] - [11:25:42] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 213\Resulting Close: 1.25369
+Previous Close: 1.2536800000000001
+Direction: 9.999999999843467e-06
+[2024-04-11] - [11:25:42] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 214
+[2024-04-11] - [11:25:42] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 214\Resulting Close: 1.2536800000000001
+Previous Close: 1.25373
+Direction: -4.999999999988347e-05
+[2024-04-11] - [11:25:42] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 215
+[2024-04-11] - [11:25:42] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 215\Resulting Close: 1.25373
+Previous Close: 1.25389
+Direction: -0.00015999999999993797
+[2024-04-11] - [11:25:42] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 216
+[2024-04-11] - [11:25:42] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 216\Resulting Close: 1.25389
+Previous Close: 1.25401
+Direction: -0.00012000000000012001
+[2024-04-11] - [11:25:42] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 217
+[2024-04-11] - [11:25:42] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 217\Resulting Close: 1.25401
+Previous Close: 1.25394
+Direction: 7.00000000000145e-05
+[2024-04-11] - [11:25:42] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 218
+[2024-04-11] - [11:25:42] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 218\Resulting Close: 1.25394
+Previous Close: 1.25391
+Direction: 2.999999999997449e-05
+[2024-04-11] - [11:25:42] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 219
+[2024-04-11] - [11:25:42] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 219\Resulting Close: 1.25391
+Previous Close: 1.25403
+Direction: -0.00011999999999989797
+[2024-04-11] - [11:25:42] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 220
+[2024-04-11] - [11:25:42] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 220\Resulting Close: 1.25403
+Previous Close: 1.25409
+Direction: -5.999999999994898e-05
+[2024-04-11] - [11:25:42] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 221
+[2024-04-11] - [11:25:42] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 221\Resulting Close: 1.25409
+Previous Close: 1.25412
+Direction: -2.999999999997449e-05
+[2024-04-11] - [11:25:42] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 222
+[2024-04-11] - [11:25:42] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 222\Resulting Close: 1.25412
+Previous Close: 1.25404
+Direction: 7.999999999985796e-05
+[2024-04-11] - [11:25:42] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 223
+[2024-04-11] - [11:25:42] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 223\Resulting Close: 1.25404
+Previous Close: 1.25384
+Direction: 0.00019999999999997797
+[2024-04-11] - [11:25:42] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 224
+[2024-04-11] - [11:25:42] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 224\Resulting Close: 1.25384
+Previous Close: 1.25401
+Direction: -0.00017000000000000348
+[2024-04-11] - [11:25:42] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 225
+[2024-04-11] - [11:25:42] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 225\Resulting Close: 1.25401
+Previous Close: 1.25389
+Direction: 0.00012000000000012001
+[2024-04-11] - [11:25:42] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 226
+[2024-04-11] - [11:25:42] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 226\Resulting Close: 1.25389
+Previous Close: 1.2539500000000001
+Direction: -6.000000000017103e-05
+[2024-04-11] - [11:25:42] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 227
+[2024-04-11] - [11:25:42] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 227\Resulting Close: 1.2539500000000001
+Previous Close: 1.25392
+Direction: 3.0000000000196536e-05
+[2024-04-11] - [11:25:43] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 228
+[2024-04-11] - [11:25:43] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 228\Resulting Close: 1.25392
+Previous Close: 1.25378
+Direction: 0.000140000000000029
+[2024-04-11] - [11:25:43] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 229
+[2024-04-11] - [11:25:43] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 229\Resulting Close: 1.25378
+Previous Close: 1.25378
+Direction: 0.0
+[2024-04-11] - [11:25:43] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 230
+[2024-04-11] - [11:25:43] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 230\Resulting Close: 1.25378
+Previous Close: 1.2539799999999999
+Direction: -0.00019999999999997797
+[2024-04-11] - [11:25:43] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 231
+[2024-04-11] - [11:25:43] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 231\Resulting Close: 1.2539799999999999
+Previous Close: 1.2539799999999999
+Direction: 0.0
+[2024-04-11] - [11:25:43] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 232
+[2024-04-11] - [11:25:43] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 232\Resulting Close: 1.2539799999999999
+Previous Close: 1.25404
+Direction: -6.000000000017103e-05
+[2024-04-11] - [11:25:43] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 233
+[2024-04-11] - [11:25:43] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 233\Resulting Close: 1.25404
+Previous Close: 1.25411
+Direction: -7.00000000000145e-05
+[2024-04-11] - [11:25:43] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 234
+[2024-04-11] - [11:25:43] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 234\Resulting Close: 1.25411
+Previous Close: 1.25392
+Direction: 0.0001900000000001345
+[2024-04-11] - [11:25:43] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 235
+[2024-04-11] - [11:25:43] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 235\Resulting Close: 1.25392
+Previous Close: 1.25399
+Direction: -7.00000000000145e-05
+[2024-04-11] - [11:25:43] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 236
+[2024-04-11] - [11:25:43] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 236\Resulting Close: 1.25399
+Previous Close: 1.2538
+Direction: 0.00018999999999991246
+[2024-04-11] - [11:25:43] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 237
+[2024-04-11] - [11:25:43] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 237\Resulting Close: 1.2538
+Previous Close: 1.25388
+Direction: -8.000000000008001e-05
+[2024-04-11] - [11:25:43] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 238
+[2024-04-11] - [11:25:43] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 238\Resulting Close: 1.25388
+Previous Close: 1.25379
+Direction: 9.000000000014552e-05
+[2024-04-11] - [11:25:43] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 239
+[2024-04-11] - [11:25:43] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 239\Resulting Close: 1.25379
+Previous Close: 1.2536800000000001
+Direction: 0.00010999999999983245
+[2024-04-11] - [11:25:43] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 240
+[2024-04-11] - [11:25:43] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 240\Resulting Close: 1.2536800000000001
+Previous Close: 1.2537
+Direction: -1.999999999990898e-05
+[2024-04-11] - [11:25:43] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 241
+[2024-04-11] - [11:25:43] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 241\Resulting Close: 1.2537
+Previous Close: 1.2536800000000001
+Direction: 1.999999999990898e-05
+[2024-04-11] - [11:25:43] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 242
+[2024-04-11] - [11:25:43] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 242\Resulting Close: 1.2536800000000001
+Previous Close: 1.25372
+Direction: -3.999999999981796e-05
+[2024-04-11] - [11:25:43] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 243
+[2024-04-11] - [11:25:43] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 243\Resulting Close: 1.25372
+Previous Close: 1.25379
+Direction: -7.00000000000145e-05
+[2024-04-11] - [11:25:43] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 244
+[2024-04-11] - [11:25:43] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 244\Resulting Close: 1.25379
+Previous Close: 1.2539799999999999
+Direction: -0.00018999999999991246
+[2024-04-11] - [11:25:43] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 245
+[2024-04-11] - [11:25:43] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 245\Resulting Close: 1.2539799999999999
+Previous Close: 1.2538
+Direction: 0.00017999999999984695
+[2024-04-11] - [11:25:43] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 246
+[2024-04-11] - [11:25:43] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 246\Resulting Close: 1.2538
+Previous Close: 1.25399
+Direction: -0.00018999999999991246
+[2024-04-11] - [11:25:43] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 247
+[2024-04-11] - [11:25:43] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 247\Resulting Close: 1.25399
+Previous Close: 1.2539500000000001
+Direction: 3.999999999981796e-05
+[2024-04-11] - [11:25:43] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 248
+[2024-04-11] - [11:25:43] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 248\Resulting Close: 1.2539500000000001
+Previous Close: 1.25385
+Direction: 0.00010000000000021103
+[2024-04-11] - [11:25:43] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 249
+[2024-04-11] - [11:25:43] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 249\Resulting Close: 1.25385
+Previous Close: 1.2539
+Direction: -5.0000000000105516e-05
+[2024-04-11] - [11:25:43] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 250
+[2024-04-11] - [11:25:43] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 250\Resulting Close: 1.2539
+Previous Close: 1.25383
+Direction: 7.00000000000145e-05
+[2024-04-11] - [11:25:43] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 251
+[2024-04-11] - [11:25:43] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 251\Resulting Close: 1.25383
+Previous Close: 1.25386
+Direction: -2.999999999997449e-05
+[2024-04-11] - [11:25:43] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 252
+[2024-04-11] - [11:25:43] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 252\Resulting Close: 1.25386
+Previous Close: 1.2538
+Direction: 5.999999999994898e-05
+[2024-04-11] - [11:25:43] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 253
+[2024-04-11] - [11:25:43] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 253\Resulting Close: 1.2538
+Previous Close: 1.2539500000000001
+Direction: -0.0001500000000000945
+[2024-04-11] - [11:25:43] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 254
+[2024-04-11] - [11:25:43] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 254\Resulting Close: 1.2539500000000001
+Previous Close: 1.25377
+Direction: 0.000180000000000069
+[2024-04-11] - [11:25:43] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 255
+[2024-04-11] - [11:25:43] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 255\Resulting Close: 1.25377
+Previous Close: 1.2537
+Direction: 7.00000000000145e-05
+[2024-04-11] - [11:25:43] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 256
+[2024-04-11] - [11:25:43] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 256\Resulting Close: 1.2537
+Previous Close: 1.2537099999999999
+Direction: -9.999999999843467e-06
+[2024-04-11] - [11:25:43] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 257
+[2024-04-11] - [11:25:43] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 257\Resulting Close: 1.2537099999999999
+Previous Close: 1.25383
+Direction: -0.00012000000000012001
+[2024-04-11] - [11:25:43] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 258
+[2024-04-11] - [11:25:43] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 258\Resulting Close: 1.25383
+Previous Close: 1.25389
+Direction: -5.999999999994898e-05
+[2024-04-11] - [11:25:43] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 259
+[2024-04-11] - [11:25:43] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 259\Resulting Close: 1.25389
+Previous Close: 1.25382
+Direction: 7.00000000000145e-05
+[2024-04-11] - [11:25:43] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 260
+[2024-04-11] - [11:25:43] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 260\Resulting Close: 1.25382
+Previous Close: 1.254
+Direction: -0.000180000000000069
+[2024-04-11] - [11:25:43] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 261
+[2024-04-11] - [11:25:43] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 261\Resulting Close: 1.254
+Previous Close: 1.2541
+Direction: -9.999999999998899e-05
+[2024-04-11] - [11:25:43] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 262
+[2024-04-11] - [11:25:43] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 262\Resulting Close: 1.2541
+Previous Close: 1.2539
+Direction: 0.00019999999999997797
+[2024-04-11] - [11:25:43] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 263
+[2024-04-11] - [11:25:43] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 263\Resulting Close: 1.2539
+Previous Close: 1.25409
+Direction: -0.00018999999999991246
+[2024-04-11] - [11:25:43] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 264
+[2024-04-11] - [11:25:43] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 264\Resulting Close: 1.25409
+Previous Close: 1.25413
+Direction: -4.0000000000040004e-05
+[2024-04-11] - [11:25:43] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 265
+[2024-04-11] - [11:25:43] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 265\Resulting Close: 1.25413
+Previous Close: 1.2541
+Direction: 2.999999999997449e-05
+[2024-04-11] - [11:25:43] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 266
+[2024-04-11] - [11:25:43] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 266\Resulting Close: 1.2541
+Previous Close: 1.2543
+Direction: -0.00019999999999997797
+[2024-04-11] - [11:25:43] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 267
+[2024-04-11] - [11:25:43] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 267\Resulting Close: 1.2543
+Previous Close: 1.25444
+Direction: -0.000140000000000029
+[2024-04-11] - [11:25:43] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 268
+[2024-04-11] - [11:25:43] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 268\Resulting Close: 1.25444
+Previous Close: 1.25444
+Direction: 0.0
+[2024-04-11] - [11:25:43] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 269
+[2024-04-11] - [11:25:43] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 269\Resulting Close: 1.25444
+Previous Close: 1.2544
+Direction: 4.0000000000040004e-05
+[2024-04-11] - [11:25:43] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 270
+[2024-04-11] - [11:25:43] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 270\Resulting Close: 1.2544
+Previous Close: 1.25451
+Direction: -0.0001100000000000545
+[2024-04-11] - [11:25:43] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 271
+[2024-04-11] - [11:25:43] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 271\Resulting Close: 1.25451
+Previous Close: 1.25449
+Direction: 1.999999999990898e-05
+[2024-04-11] - [11:25:43] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 272
+[2024-04-11] - [11:25:43] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 272\Resulting Close: 1.25449
+Previous Close: 1.2545
+Direction: -9.999999999843467e-06
+[2024-04-11] - [11:25:43] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 273
+[2024-04-11] - [11:25:44] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 273\Resulting Close: 1.2545
+Previous Close: 1.25451
+Direction: -1.0000000000065512e-05
+[2024-04-11] - [11:25:44] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 274
+[2024-04-11] - [11:25:44] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 274\Resulting Close: 1.25451
+Previous Close: 1.25449
+Direction: 1.999999999990898e-05
+[2024-04-11] - [11:25:44] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 275
+[2024-04-11] - [11:25:44] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 275\Resulting Close: 1.25449
+Previous Close: 1.2545
+Direction: -9.999999999843467e-06
+[2024-04-11] - [11:25:44] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 276
+[2024-04-11] - [11:25:44] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 276\Resulting Close: 1.2545
+Previous Close: 1.25449
+Direction: 9.999999999843467e-06
+[2024-04-11] - [11:25:44] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 277
+[2024-04-11] - [11:25:44] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 277\Resulting Close: 1.25449
+Previous Close: 1.25444
+Direction: 5.0000000000105516e-05
+[2024-04-11] - [11:25:44] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 278
+[2024-04-11] - [11:25:44] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 278\Resulting Close: 1.25444
+Previous Close: 1.2543199999999999
+Direction: 0.00012000000000012001
+[2024-04-11] - [11:25:44] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 279
+[2024-04-11] - [11:25:44] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 279\Resulting Close: 1.2543199999999999
+Previous Close: 1.25451
+Direction: -0.0001900000000001345
+[2024-04-11] - [11:25:44] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 280
+[2024-04-11] - [11:25:44] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 280\Resulting Close: 1.25451
+Previous Close: 1.25451
+Direction: 0.0
+[2024-04-11] - [11:25:44] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 281
+[2024-04-11] - [11:25:44] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 281\Resulting Close: 1.25451
+Previous Close: 1.25449
+Direction: 1.999999999990898e-05
+[2024-04-11] - [11:25:44] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 282
+[2024-04-11] - [11:25:44] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 282\Resulting Close: 1.25449
+Previous Close: 1.2545
+Direction: -9.999999999843467e-06
+[2024-04-11] - [11:25:44] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 283
+[2024-04-11] - [11:25:44] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 283\Resulting Close: 1.2545
+Previous Close: 1.2545899999999999
+Direction: -8.999999999992347e-05
+[2024-04-11] - [11:25:44] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 284
+[2024-04-11] - [11:25:44] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 284\Resulting Close: 1.2545899999999999
+Previous Close: 1.2546
+Direction: -1.0000000000065512e-05
+[2024-04-11] - [11:25:44] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 285
+[2024-04-11] - [11:25:44] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 285\Resulting Close: 1.2546
+Previous Close: 1.2546
+Direction: 0.0
+[2024-04-11] - [11:25:44] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 286
+[2024-04-11] - [11:25:44] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 286\Resulting Close: 1.2546
+Previous Close: 1.2546
+Direction: 0.0
+[2024-04-11] - [11:25:44] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 287
+[2024-04-11] - [11:25:44] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 287\Resulting Close: 1.2546
+Previous Close: 1.25454
+Direction: 5.999999999994898e-05
+[2024-04-11] - [11:25:44] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 288
+[2024-04-11] - [11:25:44] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 288\Resulting Close: 1.25454
+Previous Close: 1.2545600000000001
+Direction: -2.0000000000131024e-05
+[2024-04-11] - [11:25:44] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 289
+[2024-04-11] - [11:25:44] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 289\Resulting Close: 1.2545600000000001
+Previous Close: 1.2547
+Direction: -0.00013999999999980695
+[2024-04-11] - [11:25:44] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 290
+[2024-04-11] - [11:25:44] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 290\Resulting Close: 1.2547
+Previous Close: 1.2548
+Direction: -9.999999999998899e-05
+[2024-04-11] - [11:25:44] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 291
+[2024-04-11] - [11:25:44] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 291\Resulting Close: 1.2548
+Previous Close: 1.2548
+Direction: 0.0
+[2024-04-11] - [11:25:44] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 292
+[2024-04-11] - [11:25:44] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 292\Resulting Close: 1.2548
+Previous Close: 1.2548
+Direction: 0.0
+[2024-04-11] - [11:25:44] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 293
+[2024-04-11] - [11:25:44] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 293\Resulting Close: 1.2548
+Previous Close: 1.25471
+Direction: 8.999999999992347e-05
+[2024-04-11] - [11:25:44] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 294
+[2024-04-11] - [11:25:44] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 294\Resulting Close: 1.25471
+Previous Close: 1.2547
+Direction: 1.0000000000065512e-05
+[2024-04-11] - [11:25:44] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 295
+[2024-04-11] - [11:25:44] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 295\Resulting Close: 1.2547
+Previous Close: 1.2548
+Direction: -9.999999999998899e-05
+[2024-04-11] - [11:25:44] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 296
+[2024-04-11] - [11:25:44] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 296\Resulting Close: 1.2548
+Previous Close: 1.2548
+Direction: 0.0
+[2024-04-11] - [11:25:44] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 297
+[2024-04-11] - [11:25:44] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 297\Resulting Close: 1.2548
+Previous Close: 1.25476
+Direction: 3.999999999981796e-05
+[2024-04-11] - [11:25:44] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 298
+[2024-04-11] - [11:25:44] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 298\Resulting Close: 1.25476
+Previous Close: 1.25476
+Direction: 0.0
+[2024-04-11] - [11:25:44] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 299
+[2024-04-11] - [11:25:44] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 299\Resulting Close: 1.25476
+Previous Close: 1.25481
+Direction: -4.999999999988347e-05
+[2024-04-11] - [11:25:44] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 300
+[2024-04-11] - [11:25:44] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 300\Resulting Close: 1.25481
+Previous Close: 1.25481
+Direction: 0.0
+[2024-04-11] - [11:25:44] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 301
+[2024-04-11] - [11:25:44] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 301\Resulting Close: 1.25481
+Previous Close: 1.25479
+Direction: 1.999999999990898e-05
+[2024-04-11] - [11:25:44] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 302
+[2024-04-11] - [11:25:44] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 302\Resulting Close: 1.25479
+Previous Close: 1.25475
+Direction: 4.0000000000040004e-05
+[2024-04-11] - [11:25:44] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 303
+[2024-04-11] - [11:25:44] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 303\Resulting Close: 1.25475
+Previous Close: 1.25476
+Direction: -1.0000000000065512e-05
+[2024-04-11] - [11:25:44] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 304
+[2024-04-11] - [11:25:44] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 304\Resulting Close: 1.25476
+Previous Close: 1.25477
+Direction: -9.999999999843467e-06
+[2024-04-11] - [11:25:44] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 305
+[2024-04-11] - [11:25:44] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 305\Resulting Close: 1.25477
+Previous Close: 1.25474
+Direction: 2.999999999997449e-05
+[2024-04-11] - [11:25:44] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 306
+[2024-04-11] - [11:25:44] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 306\Resulting Close: 1.25474
+Previous Close: 1.25474
+Direction: 0.0
+[2024-04-11] - [11:25:44] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 307
+[2024-04-11] - [11:25:44] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 307\Resulting Close: 1.25474
+Previous Close: 1.25482
+Direction: -8.000000000008001e-05
+[2024-04-11] - [11:25:44] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 308
+[2024-04-11] - [11:25:44] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 308\Resulting Close: 1.25482
+Previous Close: 1.25476
+Direction: 5.999999999994898e-05
+[2024-04-11] - [11:25:44] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 309
+[2024-04-11] - [11:25:44] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 309\Resulting Close: 1.25476
+Previous Close: 1.25481
+Direction: -4.999999999988347e-05
+[2024-04-11] - [11:25:44] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 310
+[2024-04-11] - [11:25:44] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 310\Resulting Close: 1.25481
+Previous Close: 1.25471
+Direction: 9.999999999998899e-05
+[2024-04-11] - [11:25:44] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 311
+[2024-04-11] - [11:25:44] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 311\Resulting Close: 1.25471
+Previous Close: 1.25474
+Direction: -2.999999999997449e-05
+[2024-04-11] - [11:25:44] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 312
+[2024-04-11] - [11:25:44] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 312\Resulting Close: 1.25474
+Previous Close: 1.25473
+Direction: 1.0000000000065512e-05
+[2024-04-11] - [11:25:44] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 313
+[2024-04-11] - [11:25:44] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 313\Resulting Close: 1.25473
+Previous Close: 1.25473
+Direction: 0.0
+[2024-04-11] - [11:25:44] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 314
+[2024-04-11] - [11:25:44] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Analysis of Bar: 314\Resulting Close: 1.25473
+Previous Close: 1.25474
+Direction: -1.0000000000065512e-05
+[2024-04-11] - [11:26:07] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 0
+[2024-04-11] - [11:26:08] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 1
+[2024-04-11] - [11:26:08] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 2
+[2024-04-11] - [11:26:08] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 3
+[2024-04-11] - [11:26:08] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 4
+[2024-04-11] - [11:26:08] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 5
+[2024-04-11] - [11:26:08] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 6
+[2024-04-11] - [11:26:08] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 7
+[2024-04-11] - [11:26:08] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 8
+[2024-04-11] - [11:26:08] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 9
+[2024-04-11] - [11:26:08] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 10
+[2024-04-11] - [11:26:08] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 11
+[2024-04-11] - [11:26:08] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 12
+[2024-04-11] - [11:26:08] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 13
+[2024-04-11] - [11:26:08] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 14
+[2024-04-11] - [11:26:08] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 15
+[2024-04-11] - [11:26:08] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 16
+[2024-04-11] - [11:26:08] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 17
+[2024-04-11] - [11:26:08] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 18
+[2024-04-11] - [11:26:08] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 19
+[2024-04-11] - [11:26:08] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 20
+[2024-04-11] - [11:26:08] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 21
+[2024-04-11] - [11:26:08] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 22
+[2024-04-11] - [11:26:08] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 23
+[2024-04-11] - [11:26:08] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 24
+[2024-04-11] - [11:26:08] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 25
+[2024-04-11] - [11:26:08] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 26
+[2024-04-11] - [11:26:08] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 27
+[2024-04-11] - [11:26:08] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 28
+[2024-04-11] - [11:26:08] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 29
+[2024-04-11] - [11:26:08] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 30
+[2024-04-11] - [11:26:08] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 31
+[2024-04-11] - [11:26:08] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 32
+[2024-04-11] - [11:26:08] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 33
+[2024-04-11] - [11:26:08] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 34
+[2024-04-11] - [11:26:08] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 35
+[2024-04-11] - [11:26:08] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 36
+[2024-04-11] - [11:26:08] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 37
+[2024-04-11] - [11:26:08] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 38
+[2024-04-11] - [11:26:08] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 39
+[2024-04-11] - [11:26:08] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 40
+[2024-04-11] - [11:26:08] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 41
+[2024-04-11] - [11:26:08] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 42
+[2024-04-11] - [11:26:08] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 43
+[2024-04-11] - [11:26:08] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 44
+[2024-04-11] - [11:26:08] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 45
+[2024-04-11] - [11:26:08] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 46
+[2024-04-11] - [11:26:08] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 47
+[2024-04-11] - [11:26:09] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 48
+[2024-04-11] - [11:26:09] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 49
+[2024-04-11] - [11:26:09] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 50
+[2024-04-11] - [11:26:09] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 51
+[2024-04-11] - [11:26:09] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 52
+[2024-04-11] - [11:26:09] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 53
+[2024-04-11] - [11:26:09] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 54
+[2024-04-11] - [11:26:09] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 55
+[2024-04-11] - [11:26:09] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 56
+[2024-04-11] - [11:26:09] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 57
+[2024-04-11] - [11:26:09] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 58
+[2024-04-11] - [11:26:09] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 59
+[2024-04-11] - [11:26:09] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 60
+[2024-04-11] - [11:26:09] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 61
+[2024-04-11] - [11:26:09] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 62
+[2024-04-11] - [11:26:09] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 63
+[2024-04-11] - [11:26:09] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 64
+[2024-04-11] - [11:26:09] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 65
+[2024-04-11] - [11:26:09] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 66
+[2024-04-11] - [11:26:09] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 67
+[2024-04-11] - [11:26:09] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 68
+[2024-04-11] - [11:26:09] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 69
+[2024-04-11] - [11:26:09] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 70
+[2024-04-11] - [11:26:09] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 71
+[2024-04-11] - [11:26:09] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 72
+[2024-04-11] - [11:26:09] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 73
+[2024-04-11] - [11:26:09] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 74
+[2024-04-11] - [11:26:09] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 75
+[2024-04-11] - [11:26:09] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 76
+[2024-04-11] - [11:26:09] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 77
+[2024-04-11] - [11:26:09] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 78
+[2024-04-11] - [11:26:09] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 79
+[2024-04-11] - [11:26:09] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 80
+[2024-04-11] - [11:26:09] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 81
+[2024-04-11] - [11:26:09] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 82
+[2024-04-11] - [11:26:09] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 83
+[2024-04-11] - [11:26:09] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 84
+[2024-04-11] - [11:26:09] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 85
+[2024-04-11] - [11:26:09] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 86
+[2024-04-11] - [11:26:09] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 87
+[2024-04-11] - [11:26:09] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 88
+[2024-04-11] - [11:26:09] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 89
+[2024-04-11] - [11:26:09] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 90
+[2024-04-11] - [11:26:09] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 91
+[2024-04-11] - [11:26:09] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 92
+[2024-04-11] - [11:26:09] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 93
+[2024-04-11] - [11:26:09] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 94
+[2024-04-11] - [11:26:09] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 95
+[2024-04-11] - [11:26:09] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 96
+[2024-04-11] - [11:26:09] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 97
+[2024-04-11] - [11:26:09] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 98
+[2024-04-11] - [11:26:09] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 99
+[2024-04-11] - [11:26:09] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 100
+[2024-04-11] - [11:26:09] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 101
+[2024-04-11] - [11:26:09] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 102
+[2024-04-11] - [11:26:09] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 103
+[2024-04-11] - [11:26:09] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 104
+[2024-04-11] - [11:26:09] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 105
+[2024-04-11] - [11:26:09] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 106
+[2024-04-11] - [11:26:09] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 107
+[2024-04-11] - [11:26:09] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 108
+[2024-04-11] - [11:26:09] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 109
+[2024-04-11] - [11:26:09] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 110
+[2024-04-11] - [11:26:09] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 111
+[2024-04-11] - [11:26:09] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 112
+[2024-04-11] - [11:26:09] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 113
+[2024-04-11] - [11:26:09] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 114
+[2024-04-11] - [11:26:09] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 115
+[2024-04-11] - [11:26:09] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 116
+[2024-04-11] - [11:26:09] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 117
+[2024-04-11] - [11:26:09] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 118
+[2024-04-11] - [11:26:09] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 119
+[2024-04-11] - [11:26:09] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 120
+[2024-04-11] - [11:26:09] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 121
+[2024-04-11] - [11:26:09] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 122
+[2024-04-11] - [11:26:09] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 123
+[2024-04-11] - [11:26:09] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 124
+[2024-04-11] - [11:26:09] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 125
+[2024-04-11] - [11:26:09] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 126
+[2024-04-11] - [11:26:09] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 127
+[2024-04-11] - [11:26:09] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 128
+[2024-04-11] - [11:26:09] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 129
+[2024-04-11] - [11:26:09] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 130
+[2024-04-11] - [11:26:10] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 131
+[2024-04-11] - [11:26:10] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 132
+[2024-04-11] - [11:26:10] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 133
+[2024-04-11] - [11:26:10] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 134
+[2024-04-11] - [11:26:10] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 135
+[2024-04-11] - [11:26:10] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 136
+[2024-04-11] - [11:26:10] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 137
+[2024-04-11] - [11:26:10] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 138
+[2024-04-11] - [11:26:10] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 139
+[2024-04-11] - [11:26:10] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 140
+[2024-04-11] - [11:26:10] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 141
+[2024-04-11] - [11:26:10] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 142
+[2024-04-11] - [11:26:10] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 143
+[2024-04-11] - [11:26:10] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 144
+[2024-04-11] - [11:26:10] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 145
+[2024-04-11] - [11:26:10] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 146
+[2024-04-11] - [11:26:10] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 147
+[2024-04-11] - [11:26:10] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 148
+[2024-04-11] - [11:26:10] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 149
+[2024-04-11] - [11:26:10] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 150
+[2024-04-11] - [11:26:10] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 151
+[2024-04-11] - [11:26:10] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 152
+[2024-04-11] - [11:26:10] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 153
+[2024-04-11] - [11:26:10] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 154
+[2024-04-11] - [11:26:10] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 155
+[2024-04-11] - [11:26:10] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 156
+[2024-04-11] - [11:26:10] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 157
+[2024-04-11] - [11:26:10] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 158
+[2024-04-11] - [11:26:10] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 159
+[2024-04-11] - [11:26:10] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 160
+[2024-04-11] - [11:26:10] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 161
+[2024-04-11] - [11:26:10] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 162
+[2024-04-11] - [11:26:10] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 163
+[2024-04-11] - [11:26:10] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 164
+[2024-04-11] - [11:26:10] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 165
+[2024-04-11] - [11:26:10] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 166
+[2024-04-11] - [11:26:10] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 167
+[2024-04-11] - [11:26:10] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 168
+[2024-04-11] - [11:26:10] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 169
+[2024-04-11] - [11:26:10] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 170
+[2024-04-11] - [11:26:10] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 171
+[2024-04-11] - [11:26:10] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 172
+[2024-04-11] - [11:26:10] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 173
+[2024-04-11] - [11:26:10] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 174
+[2024-04-11] - [11:26:10] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 175
+[2024-04-11] - [11:26:10] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 176
+[2024-04-11] - [11:26:10] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 177
+[2024-04-11] - [11:26:10] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 178
+[2024-04-11] - [11:26:10] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 179
+[2024-04-11] - [11:26:10] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 180
+[2024-04-11] - [11:26:10] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 181
+[2024-04-11] - [11:26:10] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 182
+[2024-04-11] - [11:26:10] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 183
+[2024-04-11] - [11:26:10] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 184
+[2024-04-11] - [11:26:10] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 185
+[2024-04-11] - [11:26:10] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 186
+[2024-04-11] - [11:26:10] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 187
+[2024-04-11] - [11:26:10] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 188
+[2024-04-11] - [11:26:10] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 189
+[2024-04-11] - [11:26:10] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 190
+[2024-04-11] - [11:26:10] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 191
+[2024-04-11] - [11:26:10] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 192
+[2024-04-11] - [11:26:10] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 193
+[2024-04-11] - [11:26:10] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 194
+[2024-04-11] - [11:26:10] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 195
+[2024-04-11] - [11:26:10] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 196
+[2024-04-11] - [11:26:10] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 197
+[2024-04-11] - [11:26:10] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 198
+[2024-04-11] - [11:26:10] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 199
+[2024-04-11] - [11:26:10] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 200
+[2024-04-11] - [11:26:10] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 201
+[2024-04-11] - [11:26:10] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 202
+[2024-04-11] - [11:26:10] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 203
+[2024-04-11] - [11:26:10] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 204
+[2024-04-11] - [11:26:10] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 205
+[2024-04-11] - [11:26:10] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 206
+[2024-04-11] - [11:26:10] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 207
+[2024-04-11] - [11:26:10] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 208
+[2024-04-11] - [11:26:10] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 209
+[2024-04-11] - [11:26:10] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 210
+[2024-04-11] - [11:26:10] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 211
+[2024-04-11] - [11:26:10] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 212
+[2024-04-11] - [11:26:10] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 213
+[2024-04-11] - [11:26:10] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 214
+[2024-04-11] - [11:26:10] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 215
+[2024-04-11] - [11:26:11] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 216
+[2024-04-11] - [11:26:11] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 217
+[2024-04-11] - [11:26:11] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 218
+[2024-04-11] - [11:26:11] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 219
+[2024-04-11] - [11:26:11] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 220
+[2024-04-11] - [11:26:11] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 221
+[2024-04-11] - [11:26:11] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 222
+[2024-04-11] - [11:26:11] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 223
+[2024-04-11] - [11:26:11] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 224
+[2024-04-11] - [11:26:11] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 225
+[2024-04-11] - [11:26:11] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 226
+[2024-04-11] - [11:26:11] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 227
+[2024-04-11] - [11:26:11] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 228
+[2024-04-11] - [11:26:11] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 229
+[2024-04-11] - [11:26:11] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 230
+[2024-04-11] - [11:26:11] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 231
+[2024-04-11] - [11:26:11] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 232
+[2024-04-11] - [11:26:11] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 233
+[2024-04-11] - [11:26:11] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 234
+[2024-04-11] - [11:26:11] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 235
+[2024-04-11] - [11:26:11] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 236
+[2024-04-11] - [11:26:11] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 237
+[2024-04-11] - [11:26:11] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 238
+[2024-04-11] - [11:26:11] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 239
+[2024-04-11] - [11:26:11] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 240
+[2024-04-11] - [11:26:11] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 241
+[2024-04-11] - [11:26:11] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 242
+[2024-04-11] - [11:26:11] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 243
+[2024-04-11] - [11:26:11] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 244
+[2024-04-11] - [11:26:11] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 245
+[2024-04-11] - [11:26:11] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 246
+[2024-04-11] - [11:26:11] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 247
+[2024-04-11] - [11:26:11] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 248
+[2024-04-11] - [11:26:11] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 249
+[2024-04-11] - [11:26:11] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 250
+[2024-04-11] - [11:26:11] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 251
+[2024-04-11] - [11:26:11] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 252
+[2024-04-11] - [11:26:11] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 253
+[2024-04-11] - [11:26:11] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 254
+[2024-04-11] - [11:26:11] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 255
+[2024-04-11] - [11:26:11] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 256
+[2024-04-11] - [11:26:11] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 257
+[2024-04-11] - [11:26:11] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 258
+[2024-04-11] - [11:26:11] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 259
+[2024-04-11] - [11:26:11] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 260
+[2024-04-11] - [11:26:11] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 261
+[2024-04-11] - [11:26:11] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 262
+[2024-04-11] - [11:26:11] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 263
+[2024-04-11] - [11:26:11] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 264
+[2024-04-11] - [11:26:11] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 265
+[2024-04-11] - [11:26:11] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 266
+[2024-04-11] - [11:26:11] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 267
+[2024-04-11] - [11:26:11] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 268
+[2024-04-11] - [11:26:11] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 269
+[2024-04-11] - [11:26:11] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 270
+[2024-04-11] - [11:26:11] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 271
+[2024-04-11] - [11:26:11] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 272
+[2024-04-11] - [11:26:11] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 273
+[2024-04-11] - [11:26:11] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 274
+[2024-04-11] - [11:26:11] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 275
+[2024-04-11] - [11:26:11] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 276
+[2024-04-11] - [11:26:11] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 277
+[2024-04-11] - [11:26:11] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 278
+[2024-04-11] - [11:26:11] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 279
+[2024-04-11] - [11:26:11] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 280
+[2024-04-11] - [11:26:11] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 281
+[2024-04-11] - [11:26:11] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 282
+[2024-04-11] - [11:26:11] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 283
+[2024-04-11] - [11:26:11] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 284
+[2024-04-11] - [11:26:11] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 285
+[2024-04-11] - [11:26:11] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 286
+[2024-04-11] - [11:26:11] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 287
+[2024-04-11] - [11:26:11] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 288
+[2024-04-11] - [11:26:11] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 289
+[2024-04-11] - [11:26:11] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 290
+[2024-04-11] - [11:26:11] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 291
+[2024-04-11] - [11:26:11] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 292
+[2024-04-11] - [11:26:11] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 293
+[2024-04-11] - [11:26:11] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 294
+[2024-04-11] - [11:26:11] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 295
+[2024-04-11] - [11:26:11] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 296
+[2024-04-11] - [11:26:12] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 297
+[2024-04-11] - [11:26:12] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 298
+[2024-04-11] - [11:26:12] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 299
+[2024-04-11] - [11:26:12] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 300
+[2024-04-11] - [11:26:12] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 301
+[2024-04-11] - [11:26:12] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 302
+[2024-04-11] - [11:26:12] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 303
+[2024-04-11] - [11:26:12] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 304
+[2024-04-11] - [11:26:12] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 305
+[2024-04-11] - [11:26:12] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 306
+[2024-04-11] - [11:26:12] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 307
+[2024-04-11] - [11:26:12] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 308
+[2024-04-11] - [11:26:12] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 309
+[2024-04-11] - [11:26:12] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 310
+[2024-04-11] - [11:26:12] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 311
+[2024-04-11] - [11:26:12] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 312
+[2024-04-11] - [11:26:12] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 313
+[2024-04-11] - [11:26:12] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 314
+[2024-04-11] - [11:26:12] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 315
+[2024-04-11] - [11:26:12] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 316
+[2024-04-11] - [11:26:12] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 317
+[2024-04-11] - [11:26:12] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 318
+[2024-04-11] - [11:26:12] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 319
+[2024-04-11] - [11:26:12] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 320
+[2024-04-11] - [11:26:12] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 321
+[2024-04-11] - [11:26:12] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 322
+[2024-04-11] - [11:26:12] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 323
+[2024-04-11] - [11:26:12] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 324
+[2024-04-11] - [11:26:12] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 325
+[2024-04-11] - [11:26:12] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 326
+[2024-04-11] - [11:26:12] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 327
+[2024-04-11] - [11:26:12] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 328
+[2024-04-11] - [11:26:12] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 329
+[2024-04-11] - [11:26:12] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 330
+[2024-04-11] - [11:26:12] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 331
+[2024-04-11] - [11:26:12] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 332
+[2024-04-11] - [11:26:12] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 333
+[2024-04-11] - [11:26:12] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 334
+[2024-04-11] - [11:26:12] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 335
+[2024-04-11] - [11:26:12] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 336
+[2024-04-11] - [11:26:12] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 337
+[2024-04-11] - [11:26:12] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 338
+[2024-04-11] - [11:26:12] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 339
+[2024-04-11] - [11:26:12] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 340
+[2024-04-11] - [11:26:12] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 341
+[2024-04-11] - [11:26:12] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 342
+[2024-04-11] - [11:26:12] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 343
+[2024-04-11] - [11:26:12] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 344
+[2024-04-11] - [11:26:12] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 345
+[2024-04-11] - [11:26:12] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 346
+[2024-04-11] - [11:26:12] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 347
+[2024-04-11] - [11:26:12] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 348
+[2024-04-11] - [11:26:12] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 349
+[2024-04-11] - [11:26:12] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 350
+[2024-04-11] - [11:26:12] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 351
+[2024-04-11] - [11:26:12] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 352
+[2024-04-11] - [11:26:12] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 353
+[2024-04-11] - [11:26:12] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 354
+[2024-04-11] - [11:26:12] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 355
+[2024-04-11] - [11:26:12] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 356
+[2024-04-11] - [11:26:12] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 357
+[2024-04-11] - [11:26:12] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 358
+[2024-04-11] - [11:26:12] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 359
+[2024-04-11] - [11:26:12] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 360
+[2024-04-11] - [11:26:12] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 361
+[2024-04-11] - [11:26:12] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 362
+[2024-04-11] - [11:26:12] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 363
+[2024-04-11] - [11:26:12] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 364
+[2024-04-11] - [11:26:12] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 365
+[2024-04-11] - [11:26:12] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 366
+[2024-04-11] - [11:26:12] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 367
+[2024-04-11] - [11:26:12] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 368
+[2024-04-11] - [11:26:12] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 369
+[2024-04-11] - [11:26:12] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 370
+[2024-04-11] - [11:26:12] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 371
+[2024-04-11] - [11:26:12] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 372
+[2024-04-11] - [11:26:12] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 373
+[2024-04-11] - [11:26:12] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 374
+[2024-04-11] - [11:26:12] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 375
+[2024-04-11] - [11:26:12] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 376
+[2024-04-11] - [11:26:12] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 377
+[2024-04-11] - [11:26:12] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 378
+[2024-04-11] - [11:26:13] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 379
+[2024-04-11] - [11:26:13] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 380
+[2024-04-11] - [11:26:13] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 381
+[2024-04-11] - [11:26:13] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 382
+[2024-04-11] - [11:26:13] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 383
+[2024-04-11] - [11:26:13] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 384
+[2024-04-11] - [11:26:13] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 385
+[2024-04-11] - [11:26:13] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 386
+[2024-04-11] - [11:26:13] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 387
+[2024-04-11] - [11:26:13] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 388
+[2024-04-11] - [11:26:13] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 389
+[2024-04-11] - [11:26:13] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 390
+[2024-04-11] - [11:26:13] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 391
+[2024-04-11] - [11:26:13] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 392
+[2024-04-11] - [11:26:13] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 393
+[2024-04-11] - [11:26:13] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 394
+[2024-04-11] - [11:26:13] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 395
+[2024-04-11] - [11:26:13] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 396
+[2024-04-11] - [11:26:13] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 397
+[2024-04-11] - [11:26:13] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 398
+[2024-04-11] - [11:26:13] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 399
+[2024-04-11] - [11:26:13] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 400
+[2024-04-11] - [11:26:13] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 401
+[2024-04-11] - [11:26:13] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 402
+[2024-04-11] - [11:26:13] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 403
+[2024-04-11] - [11:26:13] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 404
+[2024-04-11] - [11:26:13] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 405
+[2024-04-11] - [11:26:13] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 406
+[2024-04-11] - [11:26:13] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 407
+[2024-04-11] - [11:26:13] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 408
+[2024-04-11] - [11:26:13] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 409
+[2024-04-11] - [11:26:13] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 410
+[2024-04-11] - [11:26:13] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 411
+[2024-04-11] - [11:26:13] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 412
+[2024-04-11] - [11:26:13] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 413
+[2024-04-11] - [11:26:13] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 414
+[2024-04-11] - [11:26:13] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 415
+[2024-04-11] - [11:26:13] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 416
+[2024-04-11] - [11:26:13] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 417
+[2024-04-11] - [11:26:13] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 418
+[2024-04-11] - [11:26:13] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 419
+[2024-04-11] - [11:26:13] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 420
+[2024-04-11] - [11:26:13] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 421
+[2024-04-11] - [11:26:13] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 422
+[2024-04-11] - [11:26:13] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 423
+[2024-04-11] - [11:26:13] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 424
+[2024-04-11] - [11:26:13] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 425
+[2024-04-11] - [11:26:13] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 426
+[2024-04-11] - [11:26:13] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 427
+[2024-04-11] - [11:26:13] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 428
+[2024-04-11] - [11:26:13] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 429
+[2024-04-11] - [11:26:13] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 430
+[2024-04-11] - [11:26:13] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 431
+[2024-04-11] - [11:26:13] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 432
+[2024-04-11] - [11:26:13] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 433
+[2024-04-11] - [11:26:13] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 434
+[2024-04-11] - [11:26:13] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 435
+[2024-04-11] - [11:26:13] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 436
+[2024-04-11] - [11:26:13] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 437
+[2024-04-11] - [11:26:13] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 438
+[2024-04-11] - [11:26:13] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 439
+[2024-04-11] - [11:26:13] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 440
+[2024-04-11] - [11:26:13] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 441
+[2024-04-11] - [11:26:13] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 442
+[2024-04-11] - [11:26:13] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 443
+[2024-04-11] - [11:26:13] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 444
+[2024-04-11] - [11:26:13] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 445
+[2024-04-11] - [11:26:13] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 446
+[2024-04-11] - [11:26:13] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 447
+[2024-04-11] - [11:26:13] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 448
+[2024-04-11] - [11:26:13] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 449
+[2024-04-11] - [11:26:13] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 450
+[2024-04-11] - [11:26:13] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 451
+[2024-04-11] - [11:26:13] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 452
+[2024-04-11] - [11:26:13] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 453
+[2024-04-11] - [11:26:13] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 454
+[2024-04-11] - [11:26:13] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 455
+[2024-04-11] - [11:26:13] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 456
+[2024-04-11] - [11:26:13] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 457
+[2024-04-11] - [11:26:13] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 458
+[2024-04-11] - [11:26:13] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 459
+[2024-04-11] - [11:26:13] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 460
+[2024-04-11] - [11:26:13] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 461
+[2024-04-11] - [11:26:13] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 462
+[2024-04-11] - [11:26:13] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 463
+[2024-04-11] - [11:26:13] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 464
+[2024-04-11] - [11:26:13] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 465
+[2024-04-11] - [11:26:14] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 466
+[2024-04-11] - [11:26:14] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 467
+[2024-04-11] - [11:26:14] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 468
+[2024-04-11] - [11:26:14] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 469
+[2024-04-11] - [11:26:14] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 470
+[2024-04-11] - [11:26:14] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 471
+[2024-04-11] - [11:26:14] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 472
+[2024-04-11] - [11:26:14] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 473
+[2024-04-11] - [11:26:14] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 474
+[2024-04-11] - [11:26:14] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 475
+[2024-04-11] - [11:26:14] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 476
+[2024-04-11] - [11:26:14] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 477
+[2024-04-11] - [11:26:14] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 478
+[2024-04-11] - [11:26:14] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 479
+[2024-04-11] - [11:26:14] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 480
+[2024-04-11] - [11:26:14] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 481
+[2024-04-11] - [11:26:14] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 482
+[2024-04-11] - [11:26:14] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 483
+[2024-04-11] - [11:26:14] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 484
+[2024-04-11] - [11:26:14] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 485
+[2024-04-11] - [11:26:14] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 486
+[2024-04-11] - [11:26:14] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 487
+[2024-04-11] - [11:26:14] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 488
+[2024-04-11] - [11:26:14] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 489
+[2024-04-11] - [11:26:14] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 490
+[2024-04-11] - [11:26:14] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 491
+[2024-04-11] - [11:26:14] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 492
+[2024-04-11] - [11:26:14] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 493
+[2024-04-11] - [11:26:14] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 494
+[2024-04-11] - [11:26:14] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 495
+[2024-04-11] - [11:26:14] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 496
+[2024-04-11] - [11:26:14] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 497
+[2024-04-11] - [11:26:14] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 498
+[2024-04-11] - [11:26:14] ->>> D:\GITHUB\Traider\pattern.py ->> 2 -> Working on bar: 499
+[2024-04-11] - [11:33:13] ->>> D:\GITHUB\Traider\pattern.py ->> 1 -> -1.2565234
+[2024-04-11] - [11:33:59] ->>> D:\GITHUB\Traider\pattern.py ->> 1 -> -1.2565988
+[2024-04-11] - [11:34:59] ->>> D:\GITHUB\Traider\pattern.py ->> 1 -> -1.2565596
+[2024-04-11] - [11:35:58] ->>> D:\GITHUB\Traider\pattern.py ->> 1 -> -1.2564417
+[2024-04-11] - [11:36:58] ->>> D:\GITHUB\Traider\pattern.py ->> 1 -> -1.2562898
+[2024-04-11] - [11:44:53] ->>> D:\GITHUB\Traider\pattern.py ->> 1 -> -1.6879119
+[2024-04-11] - [11:44:59] ->>> D:\GITHUB\Traider\pattern.py ->> 1 -> -1.6877474
+[2024-04-11] - [12:12:43] ->>> D:\GITHUB\Traider\pattern.py ->> 1 -> nan
+[2024-04-11] - [12:12:59] ->>> D:\GITHUB\Traider\pattern.py ->> 1 -> nan
+[2024-04-11] - [12:27:52] ->>> D:\GITHUB\Traider\pattern.py ->> 1 -> -0.7348339
+[2024-04-11] - [12:27:59] ->>> D:\GITHUB\Traider\pattern.py ->> 1 -> -0.73481077
+[2024-04-11] - [12:28:59] ->>> D:\GITHUB\Traider\pattern.py ->> 1 -> -0.7349501
+[2024-04-11] - [12:29:59] ->>> D:\GITHUB\Traider\pattern.py ->> 1 -> -0.7350611
+[2024-04-11] - [12:30:59] ->>> D:\GITHUB\Traider\pattern.py ->> 1 -> -0.73493224
+[2024-04-11] - [12:31:59] ->>> D:\GITHUB\Traider\pattern.py ->> 1 -> -0.7348258
+[2024-04-11] - [12:32:59] ->>> D:\GITHUB\Traider\pattern.py ->> 1 -> -0.7351133
+[2024-04-11] - [12:33:59] ->>> D:\GITHUB\Traider\pattern.py ->> 1 -> -0.73507816
+[2024-04-11] - [12:34:59] ->>> D:\GITHUB\Traider\pattern.py ->> 1 -> -0.7351269
+[2024-04-11] - [12:35:59] ->>> D:\GITHUB\Traider\pattern.py ->> 1 -> -0.73487
+[2024-04-11] - [12:36:59] ->>> D:\GITHUB\Traider\pattern.py ->> 1 -> -0.73515624
+[2024-04-11] - [12:37:59] ->>> D:\GITHUB\Traider\pattern.py ->> 1 -> -0.7351742
+[2024-04-11] - [12:38:59] ->>> D:\GITHUB\Traider\pattern.py ->> 1 -> -0.73507196
+[2024-04-11] - [12:39:59] ->>> D:\GITHUB\Traider\pattern.py ->> 1 -> -0.7349401
+[2024-04-11] - [12:40:59] ->>> D:\GITHUB\Traider\pattern.py ->> 1 -> 1.4086946
+[2024-04-11] - [12:41:59] ->>> D:\GITHUB\Traider\pattern.py ->> 1 -> 1.3669617
+[2024-04-11] - [12:42:59] ->>> D:\GITHUB\Traider\pattern.py ->> 1 -> 1.3353441
+[2024-04-11] - [12:44:06] ->>> D:\GITHUB\Traider\pattern.py ->> 1 -> 0.36830622
+[2024-04-11] - [12:44:58] ->>> D:\GITHUB\Traider\pattern.py ->> 1 -> 0.3384095
+[2024-04-11] - [12:45:59] ->>> D:\GITHUB\Traider\pattern.py ->> 1 -> 0.31203398
+[2024-04-11] - [12:46:59] ->>> D:\GITHUB\Traider\pattern.py ->> 1 -> 0.2888261
+[2024-04-11] - [12:47:20] ->>> D:\GITHUB\Traider\pattern.py ->> 1 -> 0.58739275
+[2024-04-11] - [12:47:59] ->>> D:\GITHUB\Traider\pattern.py ->> 1 -> 0.5796802
+[2024-04-11] - [12:49:59] ->>> D:\GITHUB\Traider\pattern.py ->> 1 -> 0.573807
+[2024-04-11] - [12:51:59] ->>> D:\GITHUB\Traider\pattern.py ->> 1 -> 0.56896675
+[2024-04-11] - [12:52:59] ->>> D:\GITHUB\Traider\pattern.py ->> 1 -> 0.56483376
+[2024-04-11] - [12:53:59] ->>> D:\GITHUB\Traider\pattern.py ->> 1 -> 0.56138647
+[2024-04-11] - [12:54:31] ->>> D:\GITHUB\Traider\pattern.py ->> 1 -> 0.17995621
+[2024-04-11] - [12:54:58] ->>> D:\GITHUB\Traider\pattern.py ->> 1 -> 0.1607143
+[2024-04-11] - [12:55:59] ->>> D:\GITHUB\Traider\pattern.py ->> 1 -> 0.14442919
+[2024-04-11] - [12:56:59] ->>> D:\GITHUB\Traider\pattern.py ->> 1 -> 0.13038601
+[2024-04-11] - [12:57:59] ->>> D:\GITHUB\Traider\pattern.py ->> 1 -> 0.118009895
+[2024-04-11] - [12:58:58] ->>> D:\GITHUB\Traider\pattern.py ->> 1 -> 0.10663473
+[2024-04-11] - [12:59:59] ->>> D:\GITHUB\Traider\pattern.py ->> 1 -> 0.09604082
+[2024-04-11] - [13:00:58] ->>> D:\GITHUB\Traider\pattern.py ->> 1 -> 0.086414404
+[2024-04-11] - [13:01:59] ->>> D:\GITHUB\Traider\pattern.py ->> 1 -> 0.077650435
+[2024-04-11] - [13:02:58] ->>> D:\GITHUB\Traider\pattern.py ->> 1 -> 0.06968097
