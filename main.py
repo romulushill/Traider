@@ -43,7 +43,7 @@ class ForexPredictor:
 
     def connect_to_mt5(self):
         resp = mt5.initialize(
-            login=80780203, password="6pYjS@Vi", server="MetaQuotes-Demo"
+            login=0, password="0", server="MetaQuotes-Demo"
         )
         if resp:
             self.connected = True
@@ -299,7 +299,7 @@ targets = [
         "timeframe": mt5.TIMEFRAME_M1,
         "pattern_length": 25,
         "balancerisk": 0.03,
-        "risklevel": 1 / 3,
+        "risklevel": 1/2,
         "magic": 1,
         "num_bars": 90000,
         "epochs": 20,
@@ -311,7 +311,7 @@ targets = [
         "timeframe": mt5.TIMEFRAME_M1,
         "pattern_length": 25,
         "balancerisk": 0.03,
-        "risklevel": 1 / 3,
+        "risklevel": 1/2,
         "magic": 1,
         "num_bars": 90000,
         "epochs": 20,
@@ -323,7 +323,7 @@ targets = [
         "timeframe": mt5.TIMEFRAME_M1,
         "pattern_length": 25,
         "balancerisk": 0.03,
-        "risklevel": 1 / 3,
+        "risklevel": 1/2,
         "magic": 1,
         "num_bars": 90000,
         "epochs": 20,
